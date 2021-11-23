@@ -1,19 +1,19 @@
 {
-    "loadout_name": "Mantis",
+    "loadout_name": "RoadHog XL",
     "teams": [
         {
             "accent_finish_id": 270,
-            "accent_paint_color_id": 83,
+            "accent_paint_color_id": 79,
             "items": [],
             "primary_finish_id": 270,
-            "primary_paint_color_id": 32
+            "primary_paint_color_id": 52
         },
         {
             "accent_finish_id": 270,
-            "accent_paint_color_id": 52,
+            "accent_paint_color_id": 85,
             "items": [],
             "primary_finish_id": 270,
-            "primary_paint_color_id": 64
+            "primary_paint_color_id": 56
         }
     ]
 }
