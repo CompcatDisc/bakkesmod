@@ -2776,7 +2776,7 @@
         "Attributes": [
             {
                 "Key": "CertifiedValue",
-                "Value": "9046"
+                "Value": "9050"
             },
             {
                 "Key": "Certified",
@@ -22574,6 +22574,113 @@
         "InstanceID": 21764602331,
         "Quality": 2,
         "SeriesID": 1761,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [
+            {
+                "Key": "Blueprint",
+                "Value": "5127"
+            },
+            {
+                "Key": "BlueprintCost",
+                "Value": "700"
+            },
+            {
+                "Key": "Quality",
+                "Value": "5"
+            }
+        ],
+        "ID": 5144,
+        "InstanceID": 21801532059,
+        "Quality": 5,
+        "SeriesID": 4,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [],
+        "ID": 2823,
+        "InstanceID": 21801532072,
+        "Quality": 8,
+        "SeriesID": 2226,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [],
+        "ID": 6987,
+        "InstanceID": 21801571199,
+        "Quality": 8,
+        "SeriesID": 2227,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [
+            {
+                "Key": "Blueprint",
+                "Value": "5448"
+            },
+            {
+                "Key": "BlueprintCost",
+                "Value": "500"
+            },
+            {
+                "Key": "CertifiedValue",
+                "Value": "0"
+            },
+            {
+                "Key": "Certified",
+                "Value": "4"
+            },
+            {
+                "Key": "Painted",
+                "Value": "11"
+            },
+            {
+                "Key": "Quality",
+                "Value": "4"
+            }
+        ],
+        "ID": 5905,
+        "InstanceID": 21806681505,
+        "Quality": 4,
+        "SeriesID": 4,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [],
+        "ID": 4425,
+        "InstanceID": 21806891709,
+        "Quality": 8,
+        "SeriesID": 2304,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [],
+        "ID": 6998,
+        "InstanceID": 21806891714,
+        "Quality": 8,
+        "SeriesID": 2228,
+        "TradeHold": -1
+    },
+    {
+        "Attributes": [
+            {
+                "Key": "Blueprint",
+                "Value": "6160"
+            },
+            {
+                "Key": "BlueprintCost",
+                "Value": "50"
+            },
+            {
+                "Key": "Quality",
+                "Value": "2"
+            }
+        ],
+        "ID": 5905,
+        "InstanceID": 21811863532,
+        "Quality": 2,
+        "SeriesID": 4,
         "TradeHold": 0
     },
     {
