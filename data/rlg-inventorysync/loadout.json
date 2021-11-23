@@ -1,19 +1,19 @@
 {
-    "loadout_name": "RoadHog XL",
+    "loadout_name": "Dominus 2",
     "teams": [
         {
             "accent_finish_id": 270,
-            "accent_paint_color_id": 79,
+            "accent_paint_color_id": 90,
             "items": [],
             "primary_finish_id": 270,
-            "primary_paint_color_id": 52
+            "primary_paint_color_id": 67
         },
         {
             "accent_finish_id": 270,
-            "accent_paint_color_id": 85,
+            "accent_paint_color_id": 90,
             "items": [],
             "primary_finish_id": 270,
-            "primary_paint_color_id": 56
+            "primary_paint_color_id": 67
         }
     ]
 }
