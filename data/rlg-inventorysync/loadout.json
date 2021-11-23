@@ -1,19 +1,19 @@
 {
-    "loadout_name": "Dominus 2",
+    "loadout_name": "merc",
     "teams": [
         {
             "accent_finish_id": 270,
-            "accent_paint_color_id": 90,
+            "accent_paint_color_id": 3,
             "items": [],
             "primary_finish_id": 270,
-            "primary_paint_color_id": 67
+            "primary_paint_color_id": 2
         },
         {
             "accent_finish_id": 270,
-            "accent_paint_color_id": 90,
+            "accent_paint_color_id": 3,
             "items": [],
             "primary_finish_id": 270,
-            "primary_paint_color_id": 67
+            "primary_paint_color_id": 41
         }
     ]
 }
