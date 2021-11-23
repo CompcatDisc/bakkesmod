@@ -1,0 +1,5 @@
+Dollycam plugin
+1|Render camera path|dolly_render
+1|Render frame numbers|dolly_render_frame
+6|Location interpmode|dolly_interpmode_location|Linear @0&Bezier@1&Catmull rom@4
+6|Rotation interpmode|dolly_interpmode_rotation|Linear @0&Bezier@1&Catmull rom@4

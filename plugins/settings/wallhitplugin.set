@@ -1,0 +1,10 @@
+Wallhit plugin
+6|Wallhit mode|wallhit_mode|Default@0&Expert@1&Freeze@2&Pop@3
+3|Speed|wallhit_speed|1|1999
+3|Height|rollaway_speed|1|2500
+3|Shot distance|wallhit_onwall_target_ahead|1|5000
+3|Freeze distance|wallhit_freeze_dist|1|4000
+3|Pop speed|wallhit_pop_speed|1|1999
+1|Shoot over floor|wallhit_floor
+8|
+9|This plugin was made by /u/pRtkL_xLr8r

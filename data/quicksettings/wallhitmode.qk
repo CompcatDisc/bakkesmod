@@ -1,0 +1,11 @@
+Wallhit mode
+Sets the configuration to wallhit mode.
+Right or 3 to shoot wallhit, up or 4 to change wallhit mode
+begin_config
+plugin load wallhitplugin
+alias "default_right" "wallhit;sv_training_next"
+alias "default_up" "toggle wallhit_mode 0 1 2 3; sv_training_random;"
+bind Four "default_up"
+bind Three "default_right"
+bind XboxTypeS_DPad_Right "default_right;"
+bind XboxTypeS_DPad_Up "default_up"

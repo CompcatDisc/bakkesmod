@@ -1,0 +1,14 @@
+Battery Status Plugin
+9|
+9|Xbox Controller Battery Status Plugin
+9|
+5|X Position|x_position_bt|0|4096
+5|Y Position|y_position_bt|0|2304
+4|Scale|scale_bt|1|3
+1|Show battery type|show_batterytype
+1|Show wired controllers|show_wired
+1|Show controller only if battery status is low or empty|only_low_bt
+1|Show only connected controllers|only_connected_bt
+9|
+9|
+9|If you would like to support me: paypal.me/batteryplugin  <3

@@ -1,0 +1,4 @@
+No variance
+Disables all variance in custom training except for boost
+begin_config
+sv_training_enabled 0

@@ -1,0 +1,19 @@
+{
+    "loadout_name": "Mantis",
+    "teams": [
+        {
+            "accent_finish_id": 270,
+            "accent_paint_color_id": 83,
+            "items": [],
+            "primary_finish_id": 270,
+            "primary_paint_color_id": 32
+        },
+        {
+            "accent_finish_id": 270,
+            "accent_paint_color_id": 52,
+            "items": [],
+            "primary_finish_id": 270,
+            "primary_paint_color_id": 64
+        }
+    ]
+}

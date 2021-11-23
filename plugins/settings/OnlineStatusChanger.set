@@ -1,0 +1,8 @@
+Online Status
+
+1|Enable status override|cl_online_status_detailed
+7
+9| (Current status is: "$cl_online_status_override$")
+12|New status|OnlineStatus_Temporary
+7
+0|Apply|OnlineStatus_SetStatus

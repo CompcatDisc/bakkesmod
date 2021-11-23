@@ -1,0 +1,6 @@
+Ball prediction plugin
+9|Warning: this is a beta version of the rewritten ball prediction plugin. It could impact performance!
+8|
+1|Enable ball prediction|cl_soccar_predictball
+8|
+9|Credits for the ball prediction code go to Chip

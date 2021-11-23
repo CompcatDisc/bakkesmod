@@ -1,0 +1,7 @@
+Plugin manager (beta)
+9|Read this first: This plugin is currently in beta! Please report any feedback or issues in the discord. 
+9|It will load an experimental plugin. If you experience issues and wish to disable, delete the line "plugin load pluginmanager" from your plugins.cfg
+9|AND REPORT THE ISSUE!
+9|You can find supported plugins on https://bakkesplugins.com
+8|
+0|Open pluginmanager|plugin load pluginmanager; writeplugins; togglemenu pluginmanager

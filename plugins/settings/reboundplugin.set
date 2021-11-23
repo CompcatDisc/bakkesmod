@@ -1,0 +1,6 @@
+Rebound plugin
+3|Shot speed|rebound_shotspeed|1|2000
+3|Side variance|rebound_side_offset|0|3000
+3|Height above goal|rebound_addedheight|0|3000
+2|Ball spin|rebound_addedspin|-6|6
+1|Remove spin when shot|rebound_resetspin

@@ -1,0 +1,18 @@
+Python mode
+Sets the bindings for python scripts. Make sure you have python support installed! (File -> install python support in the injector)
+Down or 1 for wallreads, left or 2 for ceiling shots
+Right or 3 to practice awkward catches, up or 4 for back wall clears
+begin_config
+plugin load pythonproject
+alias "python_down" "py_exec wallreads;sv_training_mirror"
+alias "python_left" "py_exec ceilingshot2;sv_training_prev"
+alias "python_right" "py_exec catchies;sv_training_next"
+alias "python_up" "py_exec backwall; sv_training_random;"
+bind Four "python_up"
+bind One "python_down"
+bind Three "python_right"
+bind Two "python_left"
+bind XboxTypeS_DPad_Down "python_down"
+bind XboxTypeS_DPad_Left "python_left;"
+bind XboxTypeS_DPad_Right "python_right;"
+bind XboxTypeS_DPad_Up "python_up"

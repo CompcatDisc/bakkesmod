@@ -1,0 +1,6 @@
+Defender plugin
+3|Shot speed|defender_shotspeed|1|2000
+3|Cooldown time|defender_cooldown|0|10000
+0|Start|defender_start
+7
+0|Stop|defender_stop

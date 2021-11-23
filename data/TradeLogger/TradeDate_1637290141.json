@@ -1,0 +1,18 @@
+[
+	{
+		"LocalPlayer": "Steam|76561198063343235|0",
+		"LocalProducts": [""],
+		"LocalInstances": [""],
+		"LocalCurrencyId": 13,
+		"LocalCurrencyAmount": 60,
+		"RemotePlayer": "0",
+		"RemoteProducts": ["Tanker"],
+		"RemoteInstances": ["21524198553"],
+		"RemoteCurrencyId": -1,
+		"RemoteCurrencyAmount": 0,
+		"TradeGuid": "8FAA858D-4100BB22-83EDE697-A8B2A564",
+		"TradeGuidFormat": "EGuidFormats::UniqueObjectGuid"
+		"TradeStartEpoch": "1637290112",
+		"TradeEndEpoch": "1637290141"
+	}
+]

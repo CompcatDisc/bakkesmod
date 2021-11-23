@@ -1,0 +1,58 @@
+{
+  "name": "{{name}}",
+  "author": "{{author}}",
+  "type": "{{type}}",
+  "difficulty": "{{difficulty}}",
+  "description": "",
+  "start": {
+    "player": {
+      "location": {
+        "x": "{{player_loc_x}}",
+        "y": "{{player_loc_y}}",
+        "z": "{{player_loc_z}}"
+      },
+      "rotation": {
+        "pitch": "{{player_rot_pitch}}",
+        "roll": "{{player_rot_roll}}",
+        "yaw": "{{player_rot_yaw}}"
+      }
+    },
+    "ball": {
+      "location": {
+        "x": "{{ball_loc_x}}",
+        "y": "{{ball_loc_y}}",
+        "z": "{{ball_loc_z}}"
+      },
+      "velocity": {
+        "x": "{{ball_vel_x}}",
+        "y": "{{ball_vel_y}}",
+        "z": "{{ball_vel_z}}"
+      },
+      "rotation": {
+        "pitch": "{{ball_rot_pitch}}",
+        "roll": "{{ball_rot_roll}}",
+        "yaw": "{{ball_rot_yaw}}"
+      },
+      "torque": {
+        "x": "{{ball_torque_x}}",
+        "y": "{{ball_torque_y}}",
+        "z": "{{ball_torque_z}}"
+      }
+    }
+  },
+  "end": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "speed": {
+    "min": 0,
+    "max": 0
+  },
+  "options": {
+    "shootonground": false,
+    "shootongoal": 0,
+    "disablemirror": false,
+    "usevelocity": true
+  }
+}

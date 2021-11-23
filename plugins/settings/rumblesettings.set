@@ -1,0 +1,12 @@
+Rumble freeplay
+1|Enable haymaker |sv_freeplay_rumble_enable_haymaker
+1|Enable boot |sv_freeplay_rumble_enable_boot
+1|Enable magnetizer |sv_freeplay_rumble_enable_magnetizer
+1|Enable swapper |sv_freeplay_rumble_enable_swapper
+1|Enable spikes |sv_freeplay_rumble_enable_spike
+1|Enable grappling hook |sv_freeplay_rumble_enable_grapplinghook
+1|Enable powerhitter |sv_freeplay_rumble_enable_powerhitter
+1|Enable plunger |sv_freeplay_rumble_enable_plunger
+1|Enable freezer |sv_freeplay_rumble_enable_freezer
+1|Enable disruptor |sv_freeplay_rumble_enable_disruptor
+1|Enable tornado |sv_freeplay_rumble_enable_tornado

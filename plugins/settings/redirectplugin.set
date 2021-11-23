@@ -1,0 +1,8 @@
+Redirect plugin
+1|Enable position prediction|redirect_pass_predict
+3|Shot speed|redirect_shot_speed|1|2000
+1|Redirect on ground|redirect_on_ground
+2|Redirect predict multiplier x|redirect_predict_multiplier_x|0|5
+2|Redirect predict multiplier y|redirect_predict_multiplier_y|0|5
+3|Pass offset|redirect_pass_offset|-1000|1000
+3|Pass offset (height)|redirect_pass_offset_z|0|2200

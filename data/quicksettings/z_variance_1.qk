@@ -1,0 +1,10 @@
+Very low variance
+Sets the variance of the shots in custom training to very low
+begin_config
+sv_training_enabled 1
+sv_training_var_loc "0" 
+sv_training_var_loc_z "0"
+sv_training_var_rot "(-0.300000, 0.300000)"
+sv_training_var_speed "(-1.000000, 0)"
+sv_training_var_spin "(-3,3)"
+exec "default_training"

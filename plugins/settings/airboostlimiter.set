@@ -1,0 +1,4 @@
+Air boost limiter
+1|Enable Plugin|cl_boostlimiter_enabled
+5|Boost limit when in air|cl_boostlimiter_limit|0|100
+

@@ -1,0 +1,30 @@
+Organize My Garage (OMG)
+
+0|Open|openmenu OrganizeMyGarage
+
+9|Camera Settings
+5|FOV|omg_thumbnail_fov|1|170
+5|Camera Pitch|omg_thumbnail_cameraRotation.pitch|-180|180
+5|Camera Roll|omg_thumbnail_cameraRotation.roll|-180|180
+5|Camera Yaw|omg_thumbnail_cameraRotation.yaw|-180|180
+
+5|Camera X|omg_thumbnail_cameraTranslation.X|-1500|1500
+5|Camera Y|omg_thumbnail_cameraTranslation.Y|-1500|1500
+5|Camera Z|omg_thumbnail_cameraTranslation.Z|-1500|1500
+
+9|Car Settings
+5|Car Pitch|omg_thumbnail_carRotation.pitch|-180|180
+5|Car Roll|omg_thumbnail_carRotation.roll|-180|180
+5|Car Yaw|omg_thumbnail_carRotation.yaw|-180|180
+
+5|Car X|omg_thumbnail_carTranslation.X|-1500|1500
+5|Car Y|omg_thumbnail_carTranslation.Y|-1500|1500
+5|Car Z|omg_thumbnail_carTranslation.Z|-1500|1500
+
+9|Thumbnail
+13|Background|omg_thumbnail_background
+6|Texture Size|omg_thumbnail_textureSize|256@256&512@512&1024@1024
+1|Camera Auto zoom |omg_thumbnail_cameraAutoZoom
+5|Texture load time buffer [ms]|omg_thumbnail_render_delay|0|2500
+
+0|Reset|omg_reset_settings

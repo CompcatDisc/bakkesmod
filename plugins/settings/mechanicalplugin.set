@@ -1,0 +1,11 @@
+Mechanical plugin
+1|Enable mechanical plugin|mech_enabled
+4|Steer limit|mech_steer_limit|0|1
+4|Throttle limit|mech_throttle_limit|0|1
+4|Yaw limit|mech_yaw_limit|0|1
+4|Pitch limit|mech_pitch_limit|0|1
+4|Roll limit|mech_roll_limit|0|1
+1|Disable handbrake|mech_disable_handbrake
+1|Disable jump|mech_disable_jump
+1|Disable boost|mech_disable_boost
+1|Hold boost|mech_hold_boost

@@ -1,0 +1,10 @@
+Airdribble plugin
+3|Roll to speed|rollto_speed|1|1999
+3|Roll away speed|rollaway_speed|1|1999
+3|Bounce to speed|bounceto_speed|1|1999
+3|Bounce away speed|bounceaway_speed|1|1999
+3|Variance|airdrib_variance|0|1000
+3|Starting boost (-1 for unlimited)|airdrib_boost|-1|100
+1|Ball spin|airdrib_spin
+8|
+9|This plugin was made by /u/pRtkL_xLr8r

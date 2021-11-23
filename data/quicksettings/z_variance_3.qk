@@ -1,0 +1,10 @@
+Medium variance
+Sets the variance of the shots in custom training to medium
+begin_config
+sv_training_enabled 1
+sv_training_var_loc "(-150.000000, 150.000000)" 
+sv_training_var_loc_z "(-20.000000, 100.000000)"
+sv_training_var_rot "(-2.500000, 2.500000)" 
+sv_training_var_speed "(-5.000000, 5.000000)" 
+sv_training_var_spin "(-6, 6)"
+exec "default_training"

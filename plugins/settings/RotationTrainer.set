@@ -1,0 +1,31 @@
+Rotation Trainer
+9|To get the full experience, please disable unlimited boost in freeplay
+1|Enable plugin|Rotation_Enabled
+7|
+1|Show checkpoint names|Rotation_ShowCheckpointNames
+7|
+1|Show best times|Rotation_ShowBestTimes
+
+
+8|
+
+
+9|SEQUENCE SETTINGS
+
+0|Start Current Sequence|Rotation_StartSequence
+7
+0|End Current Sequence|Rotation_EndSequence
+7
+0|Start Previous Sequence|Rotation_PreviousSequence
+7
+0|Start Next Sequence|Rotation_NextSequence
+
+6|Sequence Name|Rotation_SequenceName|Back Left Boost Grab From Front@Back Left Boost Grab From Front&Back Left Boost Grab From Middle@Back Left Boost Grab From Middle&Back Right Boost Grab From Front@Back Right Boost Grab From Front&Back Right Boost Grab From Middle@Back Right Boost Grab From Middle&Boost Pad Line 1@Boost Pad Line 1&Boost Pad Line 2@Boost Pad Line 2&Challenge 1@Challenge 1&Double Diagonal Boost Grab Left@Double Diagonal Boost Grab Left&Double Diagonal Boost Grab Right@Double Diagonal Boost Grab Right&_Example@_Example&_ExampleNested@_ExampleNested
+7
+0|Update sequence list|Rotation_LoadAllSequences
+
+4|Delay before next nested subsequence starts|Rotation_NextSequenceDelay|0|15
+
+8|
+9|SEQUENCE BUILDING TOOLS
+0|Get Car Info For Start Position/Rotation|openmenu console2; Rotation_GetStartPointInfo

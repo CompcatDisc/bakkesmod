@@ -1,0 +1,48 @@
+{
+  "name": "pop",
+  "author": "",
+  "type": "-",
+  "difficulty": "-",
+  "description": "",
+  "start": {
+    "player": {
+      "location": {
+        "x": "0",
+        "y": "0",
+        "z": "500"
+      },
+      "rotation": {
+        "pitch": "-116",
+        "roll": "28",
+        "yaw": 0
+      }
+    },
+    "ball": {
+      "location": {
+        "x": "500",
+        "y": "0",
+        "z": "1200"
+      },
+      "velocity": {
+        "x": "0",
+        "y": "0",
+        "z": "0"
+      }
+    }
+  },
+  "end": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "speed": {
+    "min": 0,
+    "max": 0
+  },
+  "options": {
+    "shootonground": false,
+    "shootongoal": 0,
+    "disablemirror": false,
+    "usevelocity": true
+  }
+}

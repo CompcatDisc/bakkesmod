@@ -1,0 +1,5 @@
+Special commands
+0|Open hoops freeplay|unreal_command "open Hoopsstadium_p?Game=TAGame.GameInfo_Tutorial_TA?FreePlay"
+0|Snowday freeplay|unreal_command "start stadium_winter_p?Game=TAGame.GameInfo_Tutorial_TA?GameTags=Ball_Puck,LowBounciness?Freeplay?"
+0|Dropshot practice game|unreal_command "start ShatterShot_P?Game=TAGame.GameInfo_Breakout_TA?GameTags=UnlimitedTime?Freeplay?"
+0|Rumble practice game| unreal_command "start park_p?Game=TAGame.GameInfo_Items_TA?GameTags=UnlimitedTime?Freeplay?"

@@ -1,0 +1,8 @@
+Recovery plugin
+2|Angular bump speed|recovery_bumpspeed_angular|-6|6
+3|Linear bump speed (x&y)|recovery_bumpspeed_linear|1|2000
+3|Linear bump speed (z)|recovery_bumpspeed_linear_z|1|2000
+3|Cooldown time|recovery_cooldown|0|10000
+0|Start|recovery_start
+7
+0|Stop|recovery_stop

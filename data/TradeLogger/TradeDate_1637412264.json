@@ -1,0 +1,18 @@
+[
+	{
+		"LocalPlayer": "Epic|05989df8aa354b178cb5c3779b2eca44|0",
+		"LocalProducts": [""],
+		"LocalInstances": [""],
+		"LocalCurrencyId": -1,
+		"LocalCurrencyAmount": 0,
+		"RemotePlayer": "0",
+		"RemoteProducts": ["Mantis"],
+		"RemoteInstances": ["21747525569"],
+		"RemoteCurrencyId": -1,
+		"RemoteCurrencyAmount": 0,
+		"TradeGuid": "73D742A6-471CEBC3-539EB185-9FA578BE",
+		"TradeGuidFormat": "EGuidFormats::UniqueObjectGuid"
+		"TradeStartEpoch": "1637412238",
+		"TradeEndEpoch": "1637412264"
+	}
+]

@@ -1,0 +1,13 @@
+PriceCheck plugin
+9|Settings
+1|Use AVG Prices|pc_use_avg
+1|Force display (use to position elements)|pc_force_show
+8|
+6|Data provider|pc_provider|RL INSIDER@1
+9|Data status: $pc_data_status$
+8|
+9|Notes:
+9|   Windows are now moved by click & drag.
+9|   If you find a bug, please contact me on Discord.
+8|
+9|This plugin was made by Masa#1994

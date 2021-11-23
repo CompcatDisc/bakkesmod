@@ -1,0 +1,10 @@
+High variance
+Sets the variance of the shots in custom training to high
+begin_config
+sv_training_enabled 1
+sv_training_var_loc "(-250.000000, 250.000000)" 
+sv_training_var_loc_z "(-30.000000, 200.000000)" 
+sv_training_var_rot "(-5.000000, 5.000000)" 
+sv_training_var_speed "(-7.000000, 7.000000)" 
+sv_training_var_spin "(-6, 6)"
+exec "default_training"

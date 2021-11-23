@@ -1,0 +1,18 @@
+Airdribble mode
+Sets the configuration to airdribble mode.
+Down or 1 for rollaway, left or 2 for bounceaway
+Right or 3 for bounceto, up or 4 for rollto
+begin_config
+alias "airdribble_down" "rollaway;sv_training_mirror"
+alias "airdribble_left" "bounceaway;sv_training_prev"
+alias "airdribble_right" "bounceto;sv_training_next"
+alias "airdribble_up" "rollto; sv_training_random;"
+plugin load airdribbleplugin
+bind Four "airdribble_up"
+bind One "airdribble_down"
+bind Three "airdribble_right"
+bind Two "airdribble_left"
+bind XboxTypeS_DPad_Down "airdribble_down"
+bind XboxTypeS_DPad_Left "airdribble_left;"
+bind XboxTypeS_DPad_Right "airdribble_right;"
+bind XboxTypeS_DPad_Up "airdribble_up"

@@ -1,0 +1,8 @@
+Kickoff plugin
+9|This plugin is currently not in use, pressing buttons here won't do anything!
+6|Opponent car|kickoff_car|Recorded car@0&Backfire@21&Breakout@22&Breakout type S@1416&Octane@23&Octane ZSR@1568&Paladin@24&Roadhog@25&Roadhog XL@1300&Gizmo@26&Sweettooth@27&X devil@28&X devil MK 2@1159&Hotshot@29&Merc@30&Venom@31&Takumi@402&Takumi RXT@1295&Dominus@403&Dominus GT@1018&Scarab@404&Zippy@523&Delorean@597&Ripper@600&Grog@607&Armadillo@625&Warthog@723&Batmobile@803&Masamune@1171&Marauder@1172&Aftershock@1286&Esper@1317&Proteus@1475&Triton@1478&Vulcan@1533&Twinmill@1603&Boneshaker@1623&Endo@1624&Ice charger@1675&Mantis@1691&Jager 619RS@1856&Centio@1919&Animus GP@1932
+1|Record kickoffs|kickoff_record
+5|Kickoff cache size|kickoff_cache_size|0|500
+6|Kickoff type|kickoff_type|All@0
+1|Mirror mode|kickoff_mirror
+0|Load kickoff game|unreal_command "open Park_P?game=TAGame.GameInfo_Soccar_TA?Playtest?GameTags=BotsNone,UnlimitedTime,DisableGoalDelay,PlayerCount6?NumPublicConnections=8?NumOpenPublicConnections=8?Offline"
