@@ -971,14 +971,6 @@
     },
     {
         "Attributes": [],
-        "ID": 2532,
-        "InstanceID": 3549546066,
-        "Quality": 5,
-        "SeriesID": 21,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [],
         "ID": 2916,
         "InstanceID": 3549546070,
         "Quality": 4,
@@ -1511,23 +1503,6 @@
         "InstanceID": 3740364224,
         "Quality": 8,
         "SeriesID": 0,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "CertifiedValue",
-                "Value": "0"
-            },
-            {
-                "Key": "Certified",
-                "Value": "11"
-            }
-        ],
-        "ID": 3150,
-        "InstanceID": 3741439080,
-        "Quality": 8,
-        "SeriesID": 45,
         "TradeHold": 0
     },
     {
@@ -2739,19 +2714,6 @@
         "TradeHold": 0
     },
     {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "12"
-            }
-        ],
-        "ID": 3365,
-        "InstanceID": 4069845758,
-        "Quality": 8,
-        "SeriesID": 297,
-        "TradeHold": 0
-    },
-    {
         "Attributes": [],
         "ID": 3242,
         "InstanceID": 4070453520,
@@ -3141,27 +3103,6 @@
             },
             {
                 "Key": "Certified",
-                "Value": "8"
-            },
-            {
-                "Key": "Painted",
-                "Value": "4"
-            }
-        ],
-        "ID": 3365,
-        "InstanceID": 4451011689,
-        "Quality": 8,
-        "SeriesID": 297,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "CertifiedValue",
-                "Value": "0"
-            },
-            {
-                "Key": "Certified",
                 "Value": "15"
             },
             {
@@ -3353,19 +3294,6 @@
     {
         "Attributes": [
             {
-                "Key": "Painted",
-                "Value": "7"
-            }
-        ],
-        "ID": 3365,
-        "InstanceID": 4623186568,
-        "Quality": 8,
-        "SeriesID": 297,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
                 "Key": "CertifiedValue",
                 "Value": "0"
             },
@@ -3380,19 +3308,6 @@
         ],
         "ID": 3577,
         "InstanceID": 4623974010,
-        "Quality": 8,
-        "SeriesID": 297,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "9"
-            }
-        ],
-        "ID": 3365,
-        "InstanceID": 4623974017,
         "Quality": 8,
         "SeriesID": 297,
         "TradeHold": 0
@@ -3440,19 +3355,6 @@
         "Attributes": [
             {
                 "Key": "Painted",
-                "Value": "1"
-            }
-        ],
-        "ID": 3365,
-        "InstanceID": 4623974027,
-        "Quality": 8,
-        "SeriesID": 297,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
                 "Value": "2"
             }
         ],
@@ -3471,19 +3373,6 @@
         ],
         "ID": 3599,
         "InstanceID": 4623974029,
-        "Quality": 8,
-        "SeriesID": 297,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "10"
-            }
-        ],
-        "ID": 3365,
-        "InstanceID": 4623974034,
         "Quality": 8,
         "SeriesID": 297,
         "TradeHold": 0
@@ -3612,63 +3501,11 @@
         "Attributes": [
             {
                 "Key": "Painted",
-                "Value": "6"
-            }
-        ],
-        "ID": 3365,
-        "InstanceID": 4623975070,
-        "Quality": 8,
-        "SeriesID": 297,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "5"
-            }
-        ],
-        "ID": 3365,
-        "InstanceID": 4623975076,
-        "Quality": 8,
-        "SeriesID": 297,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "2"
-            }
-        ],
-        "ID": 3365,
-        "InstanceID": 4623975080,
-        "Quality": 8,
-        "SeriesID": 297,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
                 "Value": "2"
             }
         ],
         "ID": 3525,
         "InstanceID": 4623975083,
-        "Quality": 8,
-        "SeriesID": 297,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "4"
-            }
-        ],
-        "ID": 3365,
-        "InstanceID": 4623975085,
         "Quality": 8,
         "SeriesID": 297,
         "TradeHold": 0
@@ -3942,23 +3779,6 @@
         "Attributes": [
             {
                 "Key": "Painted",
-                "Value": "4"
-            },
-            {
-                "Key": "SpecialEdition",
-                "Value": "2"
-            }
-        ],
-        "ID": 3365,
-        "InstanceID": 4734594716,
-        "Quality": 8,
-        "SeriesID": 297,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
                 "Value": "7"
             }
         ],
@@ -4181,27 +4001,6 @@
         ],
         "ID": 3622,
         "InstanceID": 4743644964,
-        "Quality": 8,
-        "SeriesID": 297,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "CertifiedValue",
-                "Value": "0"
-            },
-            {
-                "Key": "Certified",
-                "Value": "7"
-            },
-            {
-                "Key": "Painted",
-                "Value": "9"
-            }
-        ],
-        "ID": 3365,
-        "InstanceID": 4743733198,
         "Quality": 8,
         "SeriesID": 297,
         "TradeHold": 0
@@ -8317,19 +8116,6 @@
     {
         "Attributes": [
             {
-                "Key": "Painted",
-                "Value": "11"
-            }
-        ],
-        "ID": 4356,
-        "InstanceID": 7459602360,
-        "Quality": 8,
-        "SeriesID": 631,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
                 "Key": "CertifiedValue",
                 "Value": "1"
             },
@@ -8416,32 +8202,6 @@
     {
         "Attributes": [
             {
-                "Key": "Painted",
-                "Value": "6"
-            }
-        ],
-        "ID": 4356,
-        "InstanceID": 7480753256,
-        "Quality": 8,
-        "SeriesID": 631,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "12"
-            }
-        ],
-        "ID": 4356,
-        "InstanceID": 7480753319,
-        "Quality": 8,
-        "SeriesID": 631,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
                 "Key": "CertifiedValue",
                 "Value": "0"
             },
@@ -8521,19 +8281,6 @@
         ],
         "ID": 4367,
         "InstanceID": 7483953115,
-        "Quality": 8,
-        "SeriesID": 631,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "3"
-            }
-        ],
-        "ID": 4356,
-        "InstanceID": 7484329921,
         "Quality": 8,
         "SeriesID": 631,
         "TradeHold": 0
@@ -8923,19 +8670,6 @@
         "InstanceID": 7586930464,
         "Quality": 8,
         "SeriesID": 0,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "13"
-            }
-        ],
-        "ID": 4356,
-        "InstanceID": 7594299448,
-        "Quality": 8,
-        "SeriesID": 631,
         "TradeHold": 0
     },
     {
@@ -9397,19 +9131,6 @@
         "Attributes": [
             {
                 "Key": "Painted",
-                "Value": "1"
-            }
-        ],
-        "ID": 4356,
-        "InstanceID": 7658461431,
-        "Quality": 8,
-        "SeriesID": 631,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
                 "Value": "13"
             }
         ],
@@ -9428,19 +9149,6 @@
         ],
         "ID": 4522,
         "InstanceID": 7659552031,
-        "Quality": 8,
-        "SeriesID": 631,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "2"
-            }
-        ],
-        "ID": 4356,
-        "InstanceID": 7666072268,
         "Quality": 8,
         "SeriesID": 631,
         "TradeHold": 0
@@ -9590,37 +9298,11 @@
         "Attributes": [
             {
                 "Key": "Painted",
-                "Value": "10"
-            }
-        ],
-        "ID": 4356,
-        "InstanceID": 7728446612,
-        "Quality": 8,
-        "SeriesID": 631,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
                 "Value": "6"
             }
         ],
         "ID": 4523,
         "InstanceID": 7740180509,
-        "Quality": 8,
-        "SeriesID": 631,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "8"
-            }
-        ],
-        "ID": 4356,
-        "InstanceID": 7741997879,
         "Quality": 8,
         "SeriesID": 631,
         "TradeHold": 0
@@ -9735,19 +9417,6 @@
     {
         "Attributes": [
             {
-                "Key": "Painted",
-                "Value": "4"
-            }
-        ],
-        "ID": 4356,
-        "InstanceID": 7769303158,
-        "Quality": 8,
-        "SeriesID": 631,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
                 "Key": "CertifiedValue",
                 "Value": "0"
             },
@@ -9796,27 +9465,6 @@
         ],
         "ID": 4252,
         "InstanceID": 7815596509,
-        "Quality": 8,
-        "SeriesID": 631,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "CertifiedValue",
-                "Value": "0"
-            },
-            {
-                "Key": "Certified",
-                "Value": "11"
-            },
-            {
-                "Key": "Painted",
-                "Value": "9"
-            }
-        ],
-        "ID": 4356,
-        "InstanceID": 7816194937,
         "Quality": 8,
         "SeriesID": 631,
         "TradeHold": 0
@@ -9940,27 +9588,6 @@
         ],
         "ID": 4252,
         "InstanceID": 7882953884,
-        "Quality": 8,
-        "SeriesID": 631,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "CertifiedValue",
-                "Value": "0"
-            },
-            {
-                "Key": "Certified",
-                "Value": "9"
-            },
-            {
-                "Key": "Painted",
-                "Value": "7"
-            }
-        ],
-        "ID": 4356,
-        "InstanceID": 7883866447,
         "Quality": 8,
         "SeriesID": 631,
         "TradeHold": 0
@@ -10495,19 +10122,6 @@
         "Attributes": [
             {
                 "Key": "Painted",
-                "Value": "4"
-            }
-        ],
-        "ID": 4356,
-        "InstanceID": 8009167684,
-        "Quality": 8,
-        "SeriesID": 631,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
                 "Value": "11"
             }
         ],
@@ -10628,19 +10242,6 @@
         "Attributes": [
             {
                 "Key": "Painted",
-                "Value": "3"
-            }
-        ],
-        "ID": 4356,
-        "InstanceID": 8112542870,
-        "Quality": 8,
-        "SeriesID": 631,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
                 "Value": "12"
             }
         ],
@@ -10740,19 +10341,6 @@
         ],
         "ID": 4375,
         "InstanceID": 8128917084,
-        "Quality": 8,
-        "SeriesID": 631,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "7"
-            }
-        ],
-        "ID": 4356,
-        "InstanceID": 8135305524,
         "Quality": 8,
         "SeriesID": 631,
         "TradeHold": 0
@@ -11145,14 +10733,6 @@
         "Quality": 8,
         "SeriesID": 770,
         "TradeHold": -1
-    },
-    {
-        "Attributes": [],
-        "ID": 4793,
-        "InstanceID": 8443824642,
-        "Quality": 8,
-        "SeriesID": 769,
-        "TradeHold": 0
     },
     {
         "Attributes": [],
@@ -11595,19 +11175,6 @@
         "Attributes": [
             {
                 "Key": "Painted",
-                "Value": "1"
-            }
-        ],
-        "ID": 4591,
-        "InstanceID": 8755227865,
-        "Quality": 8,
-        "SeriesID": 821,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
                 "Value": "9"
             }
         ],
@@ -11673,19 +11240,6 @@
         ],
         "ID": 4783,
         "InstanceID": 8777599287,
-        "Quality": 8,
-        "SeriesID": 821,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "13"
-            }
-        ],
-        "ID": 4591,
-        "InstanceID": 8777777183,
         "Quality": 8,
         "SeriesID": 821,
         "TradeHold": 0
@@ -11798,19 +11352,6 @@
         "TradeHold": 0
     },
     {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "4"
-            }
-        ],
-        "ID": 4591,
-        "InstanceID": 8890592644,
-        "Quality": 8,
-        "SeriesID": 821,
-        "TradeHold": 0
-    },
-    {
         "Attributes": [],
         "ID": 3285,
         "InstanceID": 8899891248,
@@ -11883,19 +11424,6 @@
         ],
         "ID": 4805,
         "InstanceID": 8932187926,
-        "Quality": 8,
-        "SeriesID": 821,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "8"
-            }
-        ],
-        "ID": 4591,
-        "InstanceID": 8944538994,
         "Quality": 8,
         "SeriesID": 821,
         "TradeHold": 0
@@ -12136,19 +11664,6 @@
         "Attributes": [
             {
                 "Key": "Painted",
-                "Value": "12"
-            }
-        ],
-        "ID": 4764,
-        "InstanceID": 9066883982,
-        "Quality": 8,
-        "SeriesID": 821,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
                 "Value": "1"
             }
         ],
@@ -12290,19 +11805,6 @@
         ],
         "ID": 4765,
         "InstanceID": 9358611888,
-        "Quality": 8,
-        "SeriesID": 821,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "7"
-            }
-        ],
-        "ID": 4591,
-        "InstanceID": 9358946661,
         "Quality": 8,
         "SeriesID": 821,
         "TradeHold": 0
@@ -12504,71 +12006,11 @@
         "Attributes": [
             {
                 "Key": "Painted",
-                "Value": "6"
-            }
-        ],
-        "ID": 4591,
-        "InstanceID": 9479322387,
-        "Quality": 8,
-        "SeriesID": 821,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "CertifiedValue",
-                "Value": "0"
-            },
-            {
-                "Key": "Certified",
-                "Value": "10"
-            },
-            {
-                "Key": "Painted",
-                "Value": "10"
-            }
-        ],
-        "ID": 4591,
-        "InstanceID": 9485049331,
-        "Quality": 8,
-        "SeriesID": 821,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "5"
-            }
-        ],
-        "ID": 4591,
-        "InstanceID": 9485270240,
-        "Quality": 8,
-        "SeriesID": 821,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
                 "Value": "12"
             }
         ],
         "ID": 4805,
         "InstanceID": 9494449362,
-        "Quality": 8,
-        "SeriesID": 821,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "4"
-            }
-        ],
-        "ID": 4764,
-        "InstanceID": 9495512045,
         "Quality": 8,
         "SeriesID": 821,
         "TradeHold": 0
@@ -12866,27 +12308,6 @@
     {
         "Attributes": [
             {
-                "Key": "CertifiedValue",
-                "Value": "0"
-            },
-            {
-                "Key": "Certified",
-                "Value": "10"
-            },
-            {
-                "Key": "Painted",
-                "Value": "9"
-            }
-        ],
-        "ID": 4591,
-        "InstanceID": 9640560775,
-        "Quality": 8,
-        "SeriesID": 821,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
                 "Key": "Painted",
                 "Value": "5"
             }
@@ -12987,27 +12408,6 @@
         ],
         "ID": 4805,
         "InstanceID": 9673710553,
-        "Quality": 8,
-        "SeriesID": 821,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "CertifiedValue",
-                "Value": "0"
-            },
-            {
-                "Key": "Certified",
-                "Value": "4"
-            },
-            {
-                "Key": "Painted",
-                "Value": "2"
-            }
-        ],
-        "ID": 4591,
-        "InstanceID": 9682107037,
         "Quality": 8,
         "SeriesID": 821,
         "TradeHold": 0
@@ -13183,19 +12583,6 @@
         ],
         "ID": 4783,
         "InstanceID": 9756966547,
-        "Quality": 8,
-        "SeriesID": 821,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "13"
-            }
-        ],
-        "ID": 4764,
-        "InstanceID": 9765025870,
         "Quality": 8,
         "SeriesID": 821,
         "TradeHold": 0
@@ -14585,19 +13972,6 @@
     {
         "Attributes": [
             {
-                "Key": "Painted",
-                "Value": "12"
-            }
-        ],
-        "ID": 5457,
-        "InstanceID": 16310579328,
-        "Quality": 8,
-        "SeriesID": 1125,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
                 "Key": "CertifiedValue",
                 "Value": "0"
             },
@@ -14766,84 +14140,11 @@
         "Attributes": [
             {
                 "Key": "Painted",
-                "Value": "6"
-            }
-        ],
-        "ID": 4555,
-        "InstanceID": 16422970735,
-        "Quality": 8,
-        "SeriesID": 1125,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "9"
-            }
-        ],
-        "ID": 5636,
-        "InstanceID": 16428015271,
-        "Quality": 8,
-        "SeriesID": 1125,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "1"
-            }
-        ],
-        "ID": 5143,
-        "InstanceID": 16429559984,
-        "Quality": 8,
-        "SeriesID": 1125,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
                 "Value": "1"
             }
         ],
         "ID": 3493,
         "InstanceID": 16444253213,
-        "Quality": 8,
-        "SeriesID": 1125,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "CertifiedValue",
-                "Value": "0"
-            },
-            {
-                "Key": "Certified",
-                "Value": "1"
-            },
-            {
-                "Key": "Painted",
-                "Value": "6"
-            }
-        ],
-        "ID": 5143,
-        "InstanceID": 16462814063,
-        "Quality": 8,
-        "SeriesID": 1125,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "8"
-            }
-        ],
-        "ID": 5457,
-        "InstanceID": 16485184753,
         "Quality": 8,
         "SeriesID": 1125,
         "TradeHold": 0
@@ -14878,40 +14179,6 @@
         ],
         "ID": 4360,
         "InstanceID": 16546507899,
-        "Quality": 8,
-        "SeriesID": 1125,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "CertifiedValue",
-                "Value": "0"
-            },
-            {
-                "Key": "Certified",
-                "Value": "1"
-            },
-            {
-                "Key": "Painted",
-                "Value": "4"
-            }
-        ],
-        "ID": 5143,
-        "InstanceID": 16548252467,
-        "Quality": 8,
-        "SeriesID": 1125,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "3"
-            }
-        ],
-        "ID": 5636,
-        "InstanceID": 16551537588,
         "Quality": 8,
         "SeriesID": 1125,
         "TradeHold": 0
@@ -14979,27 +14246,6 @@
     {
         "Attributes": [
             {
-                "Key": "CertifiedValue",
-                "Value": "0"
-            },
-            {
-                "Key": "Certified",
-                "Value": "3"
-            },
-            {
-                "Key": "Painted",
-                "Value": "12"
-            }
-        ],
-        "ID": 4555,
-        "InstanceID": 16589218952,
-        "Quality": 8,
-        "SeriesID": 1125,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
                 "Key": "Painted",
                 "Value": "2"
             }
@@ -15019,19 +14265,6 @@
         ],
         "ID": 4981,
         "InstanceID": 16671555545,
-        "Quality": 8,
-        "SeriesID": 1125,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "10"
-            }
-        ],
-        "ID": 5636,
-        "InstanceID": 16672680380,
         "Quality": 8,
         "SeriesID": 1125,
         "TradeHold": 0
@@ -15100,45 +14333,11 @@
         "Attributes": [
             {
                 "Key": "Painted",
-                "Value": "4"
-            }
-        ],
-        "ID": 5170,
-        "InstanceID": 16678971409,
-        "Quality": 8,
-        "SeriesID": 1125,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
                 "Value": "6"
             }
         ],
         "ID": 4385,
         "InstanceID": 16712656017,
-        "Quality": 8,
-        "SeriesID": 1125,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "CertifiedValue",
-                "Value": "0"
-            },
-            {
-                "Key": "Certified",
-                "Value": "7"
-            },
-            {
-                "Key": "Painted",
-                "Value": "3"
-            }
-        ],
-        "ID": 4555,
-        "InstanceID": 16713504485,
         "Quality": 8,
         "SeriesID": 1125,
         "TradeHold": 0
@@ -15189,19 +14388,6 @@
         "Quality": 2,
         "SeriesID": 544,
         "TradeHold": -1
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "3"
-            }
-        ],
-        "ID": 5143,
-        "InstanceID": 16993152730,
-        "Quality": 8,
-        "SeriesID": 1125,
-        "TradeHold": 0
     },
     {
         "Attributes": [
@@ -15970,37 +15156,11 @@
         "TradeHold": 0
     },
     {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "11"
-            }
-        ],
-        "ID": 5592,
-        "InstanceID": 18372487411,
-        "Quality": 8,
-        "SeriesID": 1320,
-        "TradeHold": 0
-    },
-    {
         "Attributes": [],
         "ID": 3280,
         "InstanceID": 18381087005,
         "Quality": 8,
         "SeriesID": 171,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "6"
-            }
-        ],
-        "ID": 5420,
-        "InstanceID": 18381087017,
-        "Quality": 8,
-        "SeriesID": 1321,
         "TradeHold": 0
     },
     {
@@ -16137,19 +15297,6 @@
         "Attributes": [
             {
                 "Key": "Painted",
-                "Value": "13"
-            }
-        ],
-        "ID": 5592,
-        "InstanceID": 18583039632,
-        "Quality": 8,
-        "SeriesID": 1334,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
                 "Value": "12"
             }
         ],
@@ -16234,19 +15381,6 @@
                 "Value": "5"
             }
         ],
-        "ID": 5420,
-        "InstanceID": 18607937765,
-        "Quality": 8,
-        "SeriesID": 1341,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "5"
-            }
-        ],
         "ID": 5979,
         "InstanceID": 18609255553,
         "Quality": 8,
@@ -16277,19 +15411,6 @@
         "InstanceID": 18618125152,
         "Quality": 8,
         "SeriesID": 1346,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "7"
-            }
-        ],
-        "ID": 5592,
-        "InstanceID": 18669258532,
-        "Quality": 8,
-        "SeriesID": 1347,
         "TradeHold": 0
     },
     {
@@ -16473,19 +15594,6 @@
         "Attributes": [
             {
                 "Key": "Painted",
-                "Value": "3"
-            }
-        ],
-        "ID": 5592,
-        "InstanceID": 18731772157,
-        "Quality": 8,
-        "SeriesID": 1364,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
                 "Value": "9"
             }
         ],
@@ -16566,19 +15674,6 @@
         "InstanceID": 18777238256,
         "Quality": 8,
         "SeriesID": 1371,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "2"
-            }
-        ],
-        "ID": 5592,
-        "InstanceID": 18777709080,
-        "Quality": 8,
-        "SeriesID": 1372,
         "TradeHold": 0
     },
     {
@@ -16806,19 +15901,6 @@
         "Attributes": [
             {
                 "Key": "Painted",
-                "Value": "12"
-            }
-        ],
-        "ID": 5592,
-        "InstanceID": 18867450304,
-        "Quality": 8,
-        "SeriesID": 1395,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
                 "Value": "11"
             }
         ],
@@ -16956,19 +16038,6 @@
         "InstanceID": 19211594289,
         "Quality": 8,
         "SeriesID": 1407,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "10"
-            }
-        ],
-        "ID": 5592,
-        "InstanceID": 19315543930,
-        "Quality": 8,
-        "SeriesID": 1408,
         "TradeHold": 0
     },
     {
@@ -17113,19 +16182,6 @@
         "Attributes": [
             {
                 "Key": "Painted",
-                "Value": "6"
-            }
-        ],
-        "ID": 5592,
-        "InstanceID": 19399367674,
-        "Quality": 8,
-        "SeriesID": 1422,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
                 "Value": "4"
             }
         ],
@@ -17172,19 +16228,6 @@
         "InstanceID": 19402549060,
         "Quality": 1,
         "SeriesID": 1204,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "4"
-            }
-        ],
-        "ID": 5592,
-        "InstanceID": 19491406824,
-        "Quality": 8,
-        "SeriesID": 1425,
         "TradeHold": 0
     },
     {
@@ -17425,19 +16468,6 @@
         "Attributes": [
             {
                 "Key": "Painted",
-                "Value": "8"
-            }
-        ],
-        "ID": 5592,
-        "InstanceID": 19581298746,
-        "Quality": 8,
-        "SeriesID": 1448,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
                 "Value": "12"
             }
         ],
@@ -17510,19 +16540,6 @@
         "InstanceID": 19765773987,
         "Quality": 8,
         "SeriesID": 1457,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "9"
-            }
-        ],
-        "ID": 5592,
-        "InstanceID": 19803481888,
-        "Quality": 8,
-        "SeriesID": 1458,
         "TradeHold": 0
     },
     {
@@ -17637,19 +16654,6 @@
         "Attributes": [
             {
                 "Key": "Painted",
-                "Value": "5"
-            }
-        ],
-        "ID": 5592,
-        "InstanceID": 19827004620,
-        "Quality": 8,
-        "SeriesID": 1465,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
                 "Value": "8"
             }
         ],
@@ -17697,19 +16701,6 @@
         "Attributes": [
             {
                 "Key": "Painted",
-                "Value": "3"
-            }
-        ],
-        "ID": 5420,
-        "InstanceID": 19832266099,
-        "Quality": 8,
-        "SeriesID": 1470,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
                 "Value": "1"
             }
         ],
@@ -17717,19 +16708,6 @@
         "InstanceID": 19832582982,
         "Quality": 8,
         "SeriesID": 1471,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "1"
-            }
-        ],
-        "ID": 5592,
-        "InstanceID": 19839903570,
-        "Quality": 8,
-        "SeriesID": 1472,
         "TradeHold": 0
     },
     {
@@ -17795,32 +16773,6 @@
         "InstanceID": 19879596530,
         "Quality": 8,
         "SeriesID": 1479,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "11"
-            }
-        ],
-        "ID": 5592,
-        "InstanceID": 19886878036,
-        "Quality": 8,
-        "SeriesID": 1480,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "6"
-            }
-        ],
-        "ID": 5420,
-        "InstanceID": 19887846806,
-        "Quality": 8,
-        "SeriesID": 1481,
         "TradeHold": 0
     },
     {
@@ -18363,19 +17315,6 @@
                 "Value": "12"
             }
         ],
-        "ID": 5416,
-        "InstanceID": 20442293743,
-        "Quality": 2,
-        "SeriesID": 1180,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "12"
-            }
-        ],
         "ID": 5562,
         "InstanceID": 20442293744,
         "Quality": 8,
@@ -18636,19 +17575,6 @@
     {
         "Attributes": [
             {
-                "Key": "Painted",
-                "Value": "4"
-            }
-        ],
-        "ID": 5330,
-        "InstanceID": 20630254011,
-        "Quality": 8,
-        "SeriesID": 1771,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
                 "Key": "CertifiedValue",
                 "Value": "2"
             },
@@ -18899,19 +17825,6 @@
         "Attributes": [
             {
                 "Key": "Painted",
-                "Value": "5"
-            }
-        ],
-        "ID": 5330,
-        "InstanceID": 20692907640,
-        "Quality": 8,
-        "SeriesID": 1794,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
                 "Value": "7"
             }
         ],
@@ -18971,19 +17884,6 @@
         "InstanceID": 20738299650,
         "Quality": 8,
         "SeriesID": 1801,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "1"
-            }
-        ],
-        "ID": 5330,
-        "InstanceID": 20739369023,
-        "Quality": 8,
-        "SeriesID": 1802,
         "TradeHold": 0
     },
     {
@@ -19164,19 +18064,6 @@
         "TradeHold": 0
     },
     {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "7"
-            }
-        ],
-        "ID": 5330,
-        "InstanceID": 20853422792,
-        "Quality": 8,
-        "SeriesID": 1817,
-        "TradeHold": 0
-    },
-    {
         "Attributes": [],
         "ID": 1625,
         "InstanceID": 20854777943,
@@ -19271,19 +18158,6 @@
         "InstanceID": 21046089947,
         "Quality": 8,
         "SeriesID": 1824,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "10"
-            }
-        ],
-        "ID": 5330,
-        "InstanceID": 21046855672,
-        "Quality": 8,
-        "SeriesID": 1825,
         "TradeHold": 0
     },
     {
@@ -19668,19 +18542,6 @@
     {
         "Attributes": [
             {
-                "Key": "Painted",
-                "Value": "8"
-            }
-        ],
-        "ID": 5330,
-        "InstanceID": 21095138339,
-        "Quality": 8,
-        "SeriesID": 1847,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
                 "Key": "TitleId",
                 "Value": "FR_Onliner"
             }
@@ -19970,19 +18831,6 @@
         "Attributes": [
             {
                 "Key": "Painted",
-                "Value": "9"
-            }
-        ],
-        "ID": 5330,
-        "InstanceID": 21206645818,
-        "Quality": 8,
-        "SeriesID": 1867,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
                 "Value": "12"
             }
         ],
@@ -20177,19 +19025,6 @@
         "InstanceID": 21250731053,
         "Quality": 8,
         "SeriesID": 1881,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "13"
-            }
-        ],
-        "ID": 5330,
-        "InstanceID": 21251027666,
-        "Quality": 8,
-        "SeriesID": 1882,
         "TradeHold": 0
     },
     {
@@ -20564,19 +19399,6 @@
         "InstanceID": 21271173758,
         "Quality": 8,
         "SeriesID": 1888,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "12"
-            }
-        ],
-        "ID": 5330,
-        "InstanceID": 21271491680,
-        "Quality": 8,
-        "SeriesID": 1889,
         "TradeHold": 0
     },
     {
@@ -20999,19 +19821,6 @@
         "Attributes": [
             {
                 "Key": "Painted",
-                "Value": "11"
-            }
-        ],
-        "ID": 5330,
-        "InstanceID": 21316266336,
-        "Quality": 8,
-        "SeriesID": 1907,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
                 "Value": "1"
             }
         ],
@@ -21157,19 +19966,6 @@
         "InstanceID": 21344402370,
         "Quality": 8,
         "SeriesID": 1918,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "6"
-            }
-        ],
-        "ID": 5330,
-        "InstanceID": 21349131775,
-        "Quality": 8,
-        "SeriesID": 1919,
         "TradeHold": 0
     },
     {
@@ -21359,19 +20155,6 @@
         "Attributes": [
             {
                 "Key": "Painted",
-                "Value": "2"
-            }
-        ],
-        "ID": 5330,
-        "InstanceID": 21629875838,
-        "Quality": 8,
-        "SeriesID": 1936,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
                 "Value": "1"
             }
         ],
@@ -21413,19 +20196,6 @@
         "InstanceID": 21651528581,
         "Quality": 3,
         "SeriesID": 1,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "11"
-            }
-        ],
-        "ID": 6082,
-        "InstanceID": 21652552195,
-        "Quality": 8,
-        "SeriesID": 1940,
         "TradeHold": 0
     },
     {
@@ -21779,19 +20549,6 @@
         "TradeHold": 0
     },
     {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "1"
-            }
-        ],
-        "ID": 5884,
-        "InstanceID": 21654112066,
-        "Quality": 8,
-        "SeriesID": 1329,
-        "TradeHold": 0
-    },
-    {
         "Attributes": [],
         "ID": 1871,
         "InstanceID": 21654112067,
@@ -21832,19 +20589,6 @@
         "Attributes": [
             {
                 "Key": "Painted",
-                "Value": "4"
-            }
-        ],
-        "ID": 6201,
-        "InstanceID": 21654112071,
-        "Quality": 8,
-        "SeriesID": 1767,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
                 "Value": "13"
             }
         ],
@@ -21852,19 +20596,6 @@
         "InstanceID": 21654112072,
         "Quality": 8,
         "SeriesID": 1770,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "5"
-            }
-        ],
-        "ID": 6193,
-        "InstanceID": 21654112073,
-        "Quality": 8,
-        "SeriesID": 1775,
         "TradeHold": 0
     },
     {
@@ -21936,32 +20667,6 @@
         "Attributes": [
             {
                 "Key": "Painted",
-                "Value": "12"
-            }
-        ],
-        "ID": 6193,
-        "InstanceID": 21654112079,
-        "Quality": 8,
-        "SeriesID": 1786,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "7"
-            }
-        ],
-        "ID": 6201,
-        "InstanceID": 21654112080,
-        "Quality": 8,
-        "SeriesID": 1791,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
                 "Value": "9"
             }
         ],
@@ -21995,32 +20700,6 @@
         "InstanceID": 21670383202,
         "Quality": 8,
         "SeriesID": 1943,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "2"
-            }
-        ],
-        "ID": 6193,
-        "InstanceID": 21670867930,
-        "Quality": 8,
-        "SeriesID": 1944,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "4"
-            }
-        ],
-        "ID": 6082,
-        "InstanceID": 21671899557,
-        "Quality": 8,
-        "SeriesID": 1945,
         "TradeHold": 0
     },
     {
@@ -22209,23 +20888,6 @@
         "ID": 2621,
         "InstanceID": 21740885776,
         "Quality": 1,
-        "SeriesID": 1,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Painted",
-                "Value": "2"
-            },
-            {
-                "Key": "Quality",
-                "Value": "3"
-            }
-        ],
-        "ID": 382,
-        "InstanceID": 21740953029,
-        "Quality": 3,
         "SeriesID": 1,
         "TradeHold": 0
     },
@@ -28854,5 +27516,59 @@
         "Quality": 8,
         "SeriesID": 0,
         "TradeHold": -2
+    },
+    {
+        "Attributes": [],
+        "ID": 5082,
+        "InstanceID": 21831570221,
+        "Quality": 8,
+        "SeriesID": 915,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [
+            {
+                "Key": "Painted",
+                "Value": "3"
+            }
+        ],
+        "ID": 4718,
+        "InstanceID": 21831578123,
+        "Quality": 8,
+        "SeriesID": 1125,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [
+            {
+                "Key": "Blueprint",
+                "Value": "5637"
+            },
+            {
+                "Key": "BlueprintCost",
+                "Value": "100"
+            },
+            {
+                "Key": "CertifiedValue",
+                "Value": "0"
+            },
+            {
+                "Key": "Certified",
+                "Value": "3"
+            },
+            {
+                "Key": "Painted",
+                "Value": "11"
+            },
+            {
+                "Key": "Quality",
+                "Value": "2"
+            }
+        ],
+        "ID": 5765,
+        "InstanceID": 21831620773,
+        "Quality": 2,
+        "SeriesID": 4,
+        "TradeHold": 0
     }
 ]
