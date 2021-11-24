@@ -1,19 +1,19 @@
 {
-    "loadout_name": "Octane Clean",
+    "loadout_name": "Preset 1",
     "teams": [
         {
             "accent_finish_id": 270,
-            "accent_paint_color_id": 49,
+            "accent_paint_color_id": 90,
             "items": [],
             "primary_finish_id": 270,
-            "primary_paint_color_id": 61
+            "primary_paint_color_id": 68
         },
         {
             "accent_finish_id": 270,
-            "accent_paint_color_id": 92,
+            "accent_paint_color_id": 90,
             "items": [],
             "primary_finish_id": 270,
-            "primary_paint_color_id": 47
+            "primary_paint_color_id": 60
         }
     ]
 }
