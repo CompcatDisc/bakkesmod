@@ -1,0 +1,18 @@
+[
+	{
+		"LocalPlayer": "Steam|76561198063343235|0",
+		"LocalProducts": [""],
+		"LocalInstances": [""],
+		"LocalCurrencyId": -1,
+		"LocalCurrencyAmount": 0,
+		"RemotePlayer": "0",
+		"RemoteProducts": ["Heatwave"],
+		"RemoteInstances": ["16644644625"],
+		"RemoteCurrencyId": -1,
+		"RemoteCurrencyAmount": 0,
+		"TradeGuid": "90FFB2B0-4597C655-E47E4489-DCA7E154",
+		"TradeGuidFormat": "EGuidFormats::UniqueObjectGuid"
+		"TradeStartEpoch": "1637881347",
+		"TradeEndEpoch": "1637881365"
+	}
+]

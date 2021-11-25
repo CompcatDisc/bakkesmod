@@ -21757,6 +21757,51 @@
     },
     {
         "Attributes": [],
+        "ID": 35,
+        "InstanceID": 21853340425,
+        "Quality": 1,
+        "SeriesID": 1,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [],
+        "ID": 4240,
+        "InstanceID": 21853343764,
+        "Quality": 2,
+        "SeriesID": 1,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [
+            {
+                "Key": "Blueprint",
+                "Value": "4302"
+            },
+            {
+                "Key": "BlueprintCost",
+                "Value": "50"
+            },
+            {
+                "Key": "CertifiedValue",
+                "Value": "0"
+            },
+            {
+                "Key": "Certified",
+                "Value": "1"
+            },
+            {
+                "Key": "Quality",
+                "Value": "2"
+            }
+        ],
+        "ID": 5610,
+        "InstanceID": 21853461765,
+        "Quality": 2,
+        "SeriesID": 4,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [],
         "ID": 2778,
         "InstanceID": 16288122084,
         "Quality": 4,
@@ -27487,47 +27532,249 @@
     },
     {
         "Attributes": [],
-        "ID": 35,
-        "InstanceID": 21853340425,
-        "Quality": 1,
-        "SeriesID": 1,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [],
-        "ID": 4240,
-        "InstanceID": 21853343764,
-        "Quality": 2,
-        "SeriesID": 1,
+        "ID": 7001,
+        "InstanceID": 21856308143,
+        "Quality": 8,
+        "SeriesID": 2244,
         "TradeHold": 0
     },
     {
         "Attributes": [
             {
                 "Key": "Blueprint",
-                "Value": "4302"
+                "Value": "6007"
             },
             {
                 "Key": "BlueprintCost",
-                "Value": "50"
+                "Value": "100"
             },
+            {
+                "Key": "Quality",
+                "Value": "3"
+            }
+        ],
+        "ID": 5905,
+        "InstanceID": 21856576703,
+        "Quality": 3,
+        "SeriesID": 4,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [],
+        "ID": 5754,
+        "InstanceID": 21856636835,
+        "Quality": 8,
+        "SeriesID": 2245,
+        "TradeHold": -1
+    },
+    {
+        "Attributes": [],
+        "ID": 5545,
+        "InstanceID": 21856688385,
+        "Quality": 1,
+        "SeriesID": 2281,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [],
+        "ID": 5995,
+        "InstanceID": 21856688692,
+        "Quality": 2,
+        "SeriesID": 2281,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [
             {
                 "Key": "CertifiedValue",
                 "Value": "0"
             },
             {
                 "Key": "Certified",
-                "Value": "1"
+                "Value": "5"
+            }
+        ],
+        "ID": 5545,
+        "InstanceID": 21856689045,
+        "Quality": 1,
+        "SeriesID": 2281,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [],
+        "ID": 6873,
+        "InstanceID": 21856689333,
+        "Quality": 2,
+        "SeriesID": 2281,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [],
+        "ID": 6873,
+        "InstanceID": 21856689553,
+        "Quality": 2,
+        "SeriesID": 2281,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [],
+        "ID": 6227,
+        "InstanceID": 21856689755,
+        "Quality": 1,
+        "SeriesID": 2281,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [],
+        "ID": 5545,
+        "InstanceID": 21856689996,
+        "Quality": 1,
+        "SeriesID": 2281,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [],
+        "ID": 4882,
+        "InstanceID": 21856690112,
+        "Quality": 2,
+        "SeriesID": 2281,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [
+            {
+                "Key": "CertifiedValue",
+                "Value": "0"
             },
             {
-                "Key": "Quality",
+                "Key": "Certified",
+                "Value": "4"
+            }
+        ],
+        "ID": 4882,
+        "InstanceID": 21856692781,
+        "Quality": 2,
+        "SeriesID": 2281,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [],
+        "ID": 6871,
+        "InstanceID": 21856693244,
+        "Quality": 2,
+        "SeriesID": 2281,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [],
+        "ID": 6227,
+        "InstanceID": 21856693605,
+        "Quality": 1,
+        "SeriesID": 2281,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [],
+        "ID": 7048,
+        "InstanceID": 21856693998,
+        "Quality": 4,
+        "SeriesID": 2281,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [],
+        "ID": 2557,
+        "InstanceID": 21856698451,
+        "Quality": 1,
+        "SeriesID": 1,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [
+            {
+                "Key": "CertifiedValue",
+                "Value": "0"
+            },
+            {
+                "Key": "Certified",
+                "Value": "13"
+            }
+        ],
+        "ID": 7082,
+        "InstanceID": 21856705975,
+        "Quality": 1,
+        "SeriesID": 2281,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [],
+        "ID": 5545,
+        "InstanceID": 21856706450,
+        "Quality": 1,
+        "SeriesID": 2281,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [
+            {
+                "Key": "CertifiedValue",
+                "Value": "0"
+            },
+            {
+                "Key": "Certified",
+                "Value": "7"
+            }
+        ],
+        "ID": 3851,
+        "InstanceID": 21856706841,
+        "Quality": 1,
+        "SeriesID": 2281,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [
+            {
+                "Key": "Painted",
+                "Value": "8"
+            }
+        ],
+        "ID": 5545,
+        "InstanceID": 21856707511,
+        "Quality": 1,
+        "SeriesID": 2281,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [],
+        "ID": 4882,
+        "InstanceID": 21856707953,
+        "Quality": 2,
+        "SeriesID": 2281,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [
+            {
+                "Key": "CertifiedValue",
+                "Value": "0"
+            },
+            {
+                "Key": "Certified",
                 "Value": "2"
             }
         ],
-        "ID": 5610,
-        "InstanceID": 21853461765,
-        "Quality": 2,
-        "SeriesID": 4,
+        "ID": 6227,
+        "InstanceID": 21856708487,
+        "Quality": 1,
+        "SeriesID": 2281,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [],
+        "ID": 1435,
+        "InstanceID": 21856737283,
+        "Quality": 6,
+        "SeriesID": 1,
         "TradeHold": 0
     }
 ]

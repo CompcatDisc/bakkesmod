@@ -1,19 +1,19 @@
 {
-    "loadout_name": "GTR(1)",
+    "loadout_name": "Octane Clean",
     "teams": [
         {
             "accent_finish_id": 270,
-            "accent_paint_color_id": 15,
+            "accent_paint_color_id": 49,
             "items": [],
             "primary_finish_id": 270,
-            "primary_paint_color_id": 56
+            "primary_paint_color_id": 31
         },
         {
             "accent_finish_id": 270,
-            "accent_paint_color_id": 15,
+            "accent_paint_color_id": 49,
             "items": [],
             "primary_finish_id": 270,
-            "primary_paint_color_id": 65
+            "primary_paint_color_id": 56
         }
     ]
 }
