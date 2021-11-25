@@ -123,6 +123,21 @@
             },
             "timeMet": "Thu Oct 28 22:01:38 2021\n"
         },
+        "08e1246edf724b499c5808e02d477bb9": {
+            "metCount": 1,
+            "name": "YT_xTrueSebi",
+            "playlistData": {
+                "27": {
+                    "records": {
+                        "against": {
+                            "losses": 0,
+                            "wins": 1
+                        }
+                    }
+                }
+            },
+            "timeMet": "Thu Nov 25 19:45:20 2021\n"
+        },
         "0a2b8090c8294c89a81bc53a04ad3210": {
             "metCount": 1,
             "name": "0-eight",
@@ -1340,19 +1355,20 @@
             "timeMet": "Mon Nov 15 19:31:18 2021\n"
         },
         "2533274874511974": {
-            "metCount": 1,
+            "metCount": 2,
             "name": "tha funny killa",
             "playlistData": {
                 "27": {
                     "records": {
                         "against": {
-                            "losses": 1,
+                            "losses": 2,
                             "wins": 0
                         }
                     }
                 }
             },
-            "timeMet": "Mon Nov 15 20:18:30 2021\n"
+            "timeMet": "Mon Nov 15 20:18:30 2021\n",
+            "updatedAt": "Thu Nov 25 20:30:24 2021\n"
         },
         "2533274902548386": {
             "metCount": 1,
@@ -4867,6 +4883,21 @@
             "timeMet": "Wed Nov 24 02:05:09 2021\n",
             "updatedAt": "Wed Nov 24 02:18:25 2021\n"
         },
+        "6971570206174243701": {
+            "metCount": 1,
+            "name": "AlEsSioX-_-",
+            "playlistData": {
+                "2": {
+                    "records": {
+                        "against": {
+                            "losses": 1,
+                            "wins": 0
+                        }
+                    }
+                }
+            },
+            "timeMet": "Thu Nov 25 20:38:55 2021\n"
+        },
         "69eedd5d45544cf5b76cb9e374577f8d": {
             "metCount": 1,
             "name": "Igzbl",
@@ -5119,19 +5150,20 @@
             "timeMet": "Sat Nov 13 03:00:30 2021\n"
         },
         "7036874501882470": {
-            "metCount": 1,
+            "metCount": 2,
             "name": "tha funny ki(1)",
             "playlistData": {
                 "27": {
                     "records": {
                         "against": {
-                            "losses": 1,
+                            "losses": 2,
                             "wins": 0
                         }
                     }
                 }
             },
-            "timeMet": "Mon Nov 15 20:18:30 2021\n"
+            "timeMet": "Mon Nov 15 20:18:30 2021\n",
+            "updatedAt": "Thu Nov 25 20:30:25 2021\n"
         },
         "704d5703d6984c98b8511de0f253eeb4": {
             "metCount": 1,
@@ -5212,6 +5244,21 @@
                 }
             },
             "timeMet": "Sat Nov 13 09:49:47 2021\n"
+        },
+        "7249177113543437324": {
+            "metCount": 1,
+            "name": "levi_hof",
+            "playlistData": {
+                "27": {
+                    "records": {
+                        "against": {
+                            "losses": 1,
+                            "wins": 0
+                        }
+                    }
+                }
+            },
+            "timeMet": "Thu Nov 25 19:34:22 2021\n"
         },
         "7249518773b64805b19ae83a242001f5": {
             "metCount": 2,
@@ -7452,6 +7499,21 @@
             },
             "timeMet": "Fri Oct 29 02:45:57 2021\n"
         },
+        "76561198120222582": {
+            "metCount": 1,
+            "name": "✪ SsS_^",
+            "playlistData": {
+                "2": {
+                    "records": {
+                        "against": {
+                            "losses": 1,
+                            "wins": 0
+                        }
+                    }
+                }
+            },
+            "timeMet": "Thu Nov 25 20:38:09 2021\n"
+        },
         "76561198120607246": {
             "metCount": 1,
             "name": "Zimbiotic",
@@ -9192,7 +9254,7 @@
             "updatedAt": "Fri Nov 19 09:51:01 2021\n"
         },
         "76561198329647169": {
-            "metCount": 19,
+            "metCount": 23,
             "name": "GraySV",
             "playlistData": {
                 "13": {
@@ -9214,8 +9276,8 @@
                 "27": {
                     "records": {
                         "with": {
-                            "losses": 1,
-                            "wins": 1
+                            "losses": 3,
+                            "wins": 2
                         }
                     }
                 },
@@ -9265,7 +9327,7 @@
                 }
             },
             "timeMet": "Thu Nov 11 18:12:03 2021\n",
-            "updatedAt": "Tue Nov 23 17:15:57 2021\n"
+            "updatedAt": "Thu Nov 25 20:38:06 2021\n"
         },
         "76561198330262919": {
             "metCount": 52,
@@ -12859,6 +12921,21 @@
             },
             "timeMet": "Sat Nov 13 09:41:53 2021\n"
         },
+        "e7a36031edc3450d8cbeee45ba9f9f8a": {
+            "metCount": 1,
+            "name": "Paauxxll",
+            "playlistData": {
+                "27": {
+                    "records": {
+                        "against": {
+                            "losses": 0,
+                            "wins": 1
+                        }
+                    }
+                }
+            },
+            "timeMet": "Thu Nov 25 19:45:20 2021\n"
+        },
         "e80c350e242845b9840c5e6b4ac9e3cb": {
             "metCount": 1,
             "name": "BlaKy99",
@@ -13183,6 +13260,21 @@
                 }
             },
             "timeMet": "Wed Nov 24 04:16:00 2021\n"
+        },
+        "f869429de9084b268cc9d587a7195eca": {
+            "metCount": 1,
+            "name": "Time.RL",
+            "playlistData": {
+                "27": {
+                    "records": {
+                        "against": {
+                            "losses": 1,
+                            "wins": 0
+                        }
+                    }
+                }
+            },
+            "timeMet": "Thu Nov 25 19:34:16 2021\n"
         },
         "f8b503616676404790c17fb00d0d3f7b": {
             "metCount": 1,

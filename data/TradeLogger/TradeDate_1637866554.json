@@ -1,0 +1,18 @@
+[
+	{
+		"LocalPlayer": "Steam|76561198063343235|0",
+		"LocalProducts": ["Dominus: Royalty"],
+		"LocalInstances": ["21297256582"],
+		"LocalCurrencyId": -1,
+		"LocalCurrencyAmount": 0,
+		"RemotePlayer": "0",
+		"RemoteProducts": [""],
+		"RemoteInstances": [""],
+		"RemoteCurrencyId": -1,
+		"RemoteCurrencyAmount": 0,
+		"TradeGuid": "21CE7832-404DA2AF-FCEE1589-78715648",
+		"TradeGuidFormat": "EGuidFormats::UniqueObjectGuid"
+		"TradeStartEpoch": "1637866421",
+		"TradeEndEpoch": "1637866554"
+	}
+]

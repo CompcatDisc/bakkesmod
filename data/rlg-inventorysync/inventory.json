@@ -18456,14 +18456,6 @@
     },
     {
         "Attributes": [],
-        "ID": 2621,
-        "InstanceID": 21092428969,
-        "Quality": 1,
-        "SeriesID": 1,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [],
         "ID": 748,
         "InstanceID": 21092428970,
         "Quality": 1,
@@ -19735,14 +19727,6 @@
     },
     {
         "Attributes": [],
-        "ID": 1179,
-        "InstanceID": 21297256582,
-        "Quality": 2,
-        "SeriesID": 1,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [],
         "ID": 387,
         "InstanceID": 21297256586,
         "Quality": 2,
@@ -20885,14 +20869,6 @@
     },
     {
         "Attributes": [],
-        "ID": 2621,
-        "InstanceID": 21740885776,
-        "Quality": 1,
-        "SeriesID": 1,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [],
         "ID": 2587,
         "InstanceID": 21741022758,
         "Quality": 8,
@@ -21021,41 +20997,12 @@
         "TradeHold": 0
     },
     {
-        "Attributes": [
-            {
-                "Key": "Blueprint",
-                "Value": "5972"
-            },
-            {
-                "Key": "BlueprintCost",
-                "Value": "50"
-            },
-            {
-                "Key": "Quality",
-                "Value": "2"
-            }
-        ],
-        "ID": 5905,
-        "InstanceID": 21743781241,
-        "Quality": 2,
-        "SeriesID": 4,
-        "TradeHold": 0
-    },
-    {
         "Attributes": [],
         "ID": 4575,
         "InstanceID": 21743786434,
         "Quality": 8,
         "SeriesID": 2219,
         "TradeHold": -1
-    },
-    {
-        "Attributes": [],
-        "ID": 2453,
-        "InstanceID": 21744256616,
-        "Quality": 1,
-        "SeriesID": 1,
-        "TradeHold": 0
     },
     {
         "Attributes": [],
@@ -21071,27 +21018,6 @@
         "InstanceID": 21744367616,
         "Quality": 8,
         "SeriesID": 2221,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Blueprint",
-                "Value": "5613"
-            },
-            {
-                "Key": "BlueprintCost",
-                "Value": "50"
-            },
-            {
-                "Key": "Quality",
-                "Value": "2"
-            }
-        ],
-        "ID": 5610,
-        "InstanceID": 21744505936,
-        "Quality": 2,
-        "SeriesID": 4,
         "TradeHold": 0
     },
     {
@@ -21199,14 +21125,6 @@
         "InstanceID": 21763005955,
         "Quality": 8,
         "SeriesID": 2225,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [],
-        "ID": 35,
-        "InstanceID": 21763097361,
-        "Quality": 1,
-        "SeriesID": 1,
         "TradeHold": 0
     },
     {
@@ -21323,27 +21241,6 @@
         "Quality": 8,
         "SeriesID": 2228,
         "TradeHold": -1
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Blueprint",
-                "Value": "6160"
-            },
-            {
-                "Key": "BlueprintCost",
-                "Value": "50"
-            },
-            {
-                "Key": "Quality",
-                "Value": "2"
-            }
-        ],
-        "ID": 5905,
-        "InstanceID": 21811863532,
-        "Quality": 2,
-        "SeriesID": 4,
-        "TradeHold": 0
     },
     {
         "Attributes": [],
@@ -21539,27 +21436,6 @@
         "Attributes": [
             {
                 "Key": "Blueprint",
-                "Value": "6008"
-            },
-            {
-                "Key": "BlueprintCost",
-                "Value": "50"
-            },
-            {
-                "Key": "Quality",
-                "Value": "2"
-            }
-        ],
-        "ID": 5905,
-        "InstanceID": 21826205417,
-        "Quality": 2,
-        "SeriesID": 4,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Blueprint",
                 "Value": "4622"
             },
             {
@@ -21596,14 +21472,6 @@
         "InstanceID": 21827244759,
         "Quality": 4,
         "SeriesID": 4,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [],
-        "ID": 5302,
-        "InstanceID": 21827544958,
-        "Quality": 1,
-        "SeriesID": 1118,
         "TradeHold": 0
     },
     {
@@ -21781,14 +21649,6 @@
     },
     {
         "Attributes": [],
-        "ID": 2464,
-        "InstanceID": 21830455650,
-        "Quality": 1,
-        "SeriesID": 1,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [],
         "ID": 5082,
         "InstanceID": 21831570221,
         "Quality": 8,
@@ -21806,47 +21666,6 @@
         "InstanceID": 21831578123,
         "Quality": 8,
         "SeriesID": 1125,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Blueprint",
-                "Value": "5637"
-            },
-            {
-                "Key": "BlueprintCost",
-                "Value": "100"
-            },
-            {
-                "Key": "CertifiedValue",
-                "Value": "0"
-            },
-            {
-                "Key": "Certified",
-                "Value": "3"
-            },
-            {
-                "Key": "Painted",
-                "Value": "11"
-            },
-            {
-                "Key": "Quality",
-                "Value": "2"
-            }
-        ],
-        "ID": 5765,
-        "InstanceID": 21831620773,
-        "Quality": 2,
-        "SeriesID": 4,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [],
-        "ID": 5302,
-        "InstanceID": 21835299328,
-        "Quality": 1,
-        "SeriesID": 1118,
         "TradeHold": 0
     },
     {
@@ -21897,6 +21716,43 @@
         "InstanceID": 21838659940,
         "Quality": 8,
         "SeriesID": 2307,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [],
+        "ID": 1776,
+        "InstanceID": 21852338487,
+        "Quality": 2,
+        "SeriesID": 1,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [],
+        "ID": 6945,
+        "InstanceID": 21852705919,
+        "Quality": 8,
+        "SeriesID": 2243,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [
+            {
+                "Key": "Blueprint",
+                "Value": "6007"
+            },
+            {
+                "Key": "BlueprintCost",
+                "Value": "100"
+            },
+            {
+                "Key": "Quality",
+                "Value": "3"
+            }
+        ],
+        "ID": 5905,
+        "InstanceID": 21853213488,
+        "Quality": 3,
+        "SeriesID": 4,
         "TradeHold": 0
     },
     {
@@ -27628,5 +27484,50 @@
         "Quality": 8,
         "SeriesID": 0,
         "TradeHold": -2
+    },
+    {
+        "Attributes": [],
+        "ID": 35,
+        "InstanceID": 21853340425,
+        "Quality": 1,
+        "SeriesID": 1,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [],
+        "ID": 4240,
+        "InstanceID": 21853343764,
+        "Quality": 2,
+        "SeriesID": 1,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [
+            {
+                "Key": "Blueprint",
+                "Value": "4302"
+            },
+            {
+                "Key": "BlueprintCost",
+                "Value": "50"
+            },
+            {
+                "Key": "CertifiedValue",
+                "Value": "0"
+            },
+            {
+                "Key": "Certified",
+                "Value": "1"
+            },
+            {
+                "Key": "Quality",
+                "Value": "2"
+            }
+        ],
+        "ID": 5610,
+        "InstanceID": 21853461765,
+        "Quality": 2,
+        "SeriesID": 4,
+        "TradeHold": 0
     }
 ]
