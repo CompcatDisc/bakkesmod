@@ -1,0 +1,5 @@
+{
+	keys:P,U,Underscore
+	name:freeplay-queueCancel
+	command:queue_cancel; load_freeplay
+}
