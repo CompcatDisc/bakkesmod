@@ -1,19 +1,19 @@
 {
-    "loadout_name": "octane",
+    "loadout_name": "GTR(1)",
     "teams": [
         {
             "accent_finish_id": 270,
             "accent_paint_color_id": 15,
             "items": [],
             "primary_finish_id": 270,
-            "primary_paint_color_id": 67
+            "primary_paint_color_id": 56
         },
         {
             "accent_finish_id": 270,
             "accent_paint_color_id": 15,
             "items": [],
             "primary_finish_id": 270,
-            "primary_paint_color_id": 67
+            "primary_paint_color_id": 65
         }
     ]
 }
