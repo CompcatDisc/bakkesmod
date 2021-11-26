@@ -1,16 +1,16 @@
 {
-    "loadout_name": "fennec2",
+    "loadout_name": "octane",
     "teams": [
         {
             "accent_finish_id": 270,
-            "accent_paint_color_id": 78,
+            "accent_paint_color_id": 15,
             "items": [],
             "primary_finish_id": 270,
-            "primary_paint_color_id": 58
+            "primary_paint_color_id": 67
         },
         {
             "accent_finish_id": 270,
-            "accent_paint_color_id": 60,
+            "accent_paint_color_id": 15,
             "items": [],
             "primary_finish_id": 270,
             "primary_paint_color_id": 67
