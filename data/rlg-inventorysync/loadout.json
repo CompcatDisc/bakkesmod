@@ -1,19 +1,19 @@
 {
-    "loadout_name": "Octane Clean",
+    "loadout_name": "Endo",
     "teams": [
         {
             "accent_finish_id": 270,
-            "accent_paint_color_id": 49,
+            "accent_paint_color_id": 48,
             "items": [],
             "primary_finish_id": 270,
-            "primary_paint_color_id": 31
+            "primary_paint_color_id": 2
         },
         {
             "accent_finish_id": 270,
-            "accent_paint_color_id": 49,
+            "accent_paint_color_id": 76,
             "items": [],
             "primary_finish_id": 270,
-            "primary_paint_color_id": 56
+            "primary_paint_color_id": 51
         }
     ]
 }
