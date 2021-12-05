@@ -16624,7 +16624,7 @@
         "Attributes": [
             {
                 "Key": "CertifiedValue",
-                "Value": "20"
+                "Value": "27"
             },
             {
                 "Key": "Certified",
@@ -22347,6 +22347,104 @@
         "InstanceID": 21867921632,
         "Quality": 2,
         "SeriesID": 4,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [],
+        "ID": 3171,
+        "InstanceID": 21971171792,
+        "Quality": 8,
+        "SeriesID": 2309,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [],
+        "ID": 6926,
+        "InstanceID": 21971171798,
+        "Quality": 8,
+        "SeriesID": 2253,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [
+            {
+                "Key": "Blueprint",
+                "Value": "6160"
+            },
+            {
+                "Key": "BlueprintCost",
+                "Value": "50"
+            },
+            {
+                "Key": "Quality",
+                "Value": "2"
+            }
+        ],
+        "ID": 5905,
+        "InstanceID": 21971452917,
+        "Quality": 2,
+        "SeriesID": 4,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [],
+        "ID": 4637,
+        "InstanceID": 21971452934,
+        "Quality": 8,
+        "SeriesID": 2254,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [],
+        "ID": 5301,
+        "InstanceID": 21971647390,
+        "Quality": 2,
+        "SeriesID": 1119,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [],
+        "ID": 6995,
+        "InstanceID": 21971647399,
+        "Quality": 8,
+        "SeriesID": 2255,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [
+            {
+                "Key": "TitleId",
+                "Value": "RP11_Axial_Tilted"
+            }
+        ],
+        "ID": 3036,
+        "InstanceID": 21971649788,
+        "Quality": 8,
+        "SeriesID": 2310,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [],
+        "ID": 6921,
+        "InstanceID": 21971649792,
+        "Quality": 8,
+        "SeriesID": 2256,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [],
+        "ID": 6891,
+        "InstanceID": 21998257914,
+        "Quality": 2,
+        "SeriesID": 2696,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [],
+        "ID": 5608,
+        "InstanceID": 21998257915,
+        "Quality": 8,
+        "SeriesID": 2692,
         "TradeHold": 0
     },
     {
@@ -28081,84 +28179,10 @@
     },
     {
         "Attributes": [],
-        "ID": 3171,
-        "InstanceID": 21971171792,
+        "ID": 7071,
+        "InstanceID": 21998611998,
         "Quality": 8,
-        "SeriesID": 2309,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [],
-        "ID": 6926,
-        "InstanceID": 21971171798,
-        "Quality": 8,
-        "SeriesID": 2253,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "Blueprint",
-                "Value": "6160"
-            },
-            {
-                "Key": "BlueprintCost",
-                "Value": "50"
-            },
-            {
-                "Key": "Quality",
-                "Value": "2"
-            }
-        ],
-        "ID": 5905,
-        "InstanceID": 21971452917,
-        "Quality": 2,
-        "SeriesID": 4,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [],
-        "ID": 4637,
-        "InstanceID": 21971452934,
-        "Quality": 8,
-        "SeriesID": 2254,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [],
-        "ID": 5301,
-        "InstanceID": 21971647390,
-        "Quality": 2,
-        "SeriesID": 1119,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [],
-        "ID": 6995,
-        "InstanceID": 21971647399,
-        "Quality": 8,
-        "SeriesID": 2255,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [
-            {
-                "Key": "TitleId",
-                "Value": "RP11_Axial_Tilted"
-            }
-        ],
-        "ID": 3036,
-        "InstanceID": 21971649788,
-        "Quality": 8,
-        "SeriesID": 2310,
-        "TradeHold": 0
-    },
-    {
-        "Attributes": [],
-        "ID": 6921,
-        "InstanceID": 21971649792,
-        "Quality": 8,
-        "SeriesID": 2256,
+        "SeriesID": 2257,
         "TradeHold": 0
     }
 ]
