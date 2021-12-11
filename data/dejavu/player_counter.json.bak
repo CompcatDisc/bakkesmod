@@ -19,6 +19,16 @@
         "0173a8448d6540ca8d17e4e7a4e8017a": {
             "metCount": 1,
             "name": "LeCarreTriangle",
+            "playlistData": {
+                "11": {
+                    "records": {
+                        "against": {
+                            "losses": 1,
+                            "wins": 0
+                        }
+                    }
+                }
+            },
             "timeMet": "Sat Dec 11 11:52:34 2021\n"
         },
         "06ecfdc6b9304e7fa13585f4413eb96f": {
@@ -6317,9 +6327,20 @@
             "timeMet": "Sat Nov 20 06:15:08 2021\n"
         },
         "76561197960385389": {
-            "metCount": 1,
+            "metCount": 4,
             "name": "YelloW B!rD",
-            "timeMet": "Sat Dec 11 11:52:35 2021\n"
+            "playlistData": {
+                "11": {
+                    "records": {
+                        "with": {
+                            "losses": 1,
+                            "wins": 1
+                        }
+                    }
+                }
+            },
+            "timeMet": "Sat Dec 11 11:52:35 2021\n",
+            "updatedAt": "Sat Dec 11 12:14:04 2021\n"
         },
         "76561197960496144": {
             "metCount": 1,
@@ -7119,6 +7140,21 @@
             },
             "timeMet": "Fri Oct 29 00:54:29 2021\n"
         },
+        "76561198029350871": {
+            "metCount": 1,
+            "name": "Looter Mcgavin aka Sir Lanceloot",
+            "playlistData": {
+                "11": {
+                    "records": {
+                        "against": {
+                            "losses": 0,
+                            "wins": 1
+                        }
+                    }
+                }
+            },
+            "timeMet": "Sat Dec 11 12:07:19 2021\n"
+        },
         "76561198029549223": {
             "metCount": 1,
             "name": "PedgE",
@@ -7398,6 +7434,11 @@
                 }
             },
             "timeMet": "Sun Nov 14 17:53:47 2021\n"
+        },
+        "76561198044762988": {
+            "metCount": 1,
+            "name": "Owen Pilson",
+            "timeMet": "Sat Dec 11 12:00:05 2021\n"
         },
         "76561198044828594": {
             "metCount": 1,
@@ -8178,6 +8219,11 @@
                 }
             },
             "timeMet": "Mon Nov 15 18:47:58 2021\n"
+        },
+        "76561198089092367": {
+            "metCount": 1,
+            "name": "Blesiire",
+            "timeMet": "Sat Dec 11 12:00:05 2021\n"
         },
         "76561198090462961": {
             "metCount": 1,
@@ -9100,6 +9146,21 @@
             },
             "timeMet": "Fri Oct 29 16:22:53 2021\n",
             "updatedAt": "Thu Nov 25 23:42:52 2021\n"
+        },
+        "76561198138646431": {
+            "metCount": 1,
+            "name": "Tactical Soda",
+            "playlistData": {
+                "11": {
+                    "records": {
+                        "against": {
+                            "losses": 0,
+                            "wins": 1
+                        }
+                    }
+                }
+            },
+            "timeMet": "Sat Dec 11 12:07:19 2021\n"
         },
         "76561198140393290": {
             "metCount": 1,
@@ -12431,6 +12492,11 @@
             },
             "timeMet": "Fri Oct 29 06:14:25 2021\n"
         },
+        "79180036b0e2452eb701e368a75ad5e6": {
+            "metCount": 1,
+            "name": "Erik 85",
+            "timeMet": "Sat Dec 11 12:14:04 2021\n"
+        },
         "7964238953f940fcad739346e5bc014c": {
             "metCount": 1,
             "name": "garry shebang",
@@ -13099,6 +13165,11 @@
             },
             "timeMet": "Mon Nov 15 18:19:22 2021\n"
         },
+        "8a245876ddab4bbead58500c470707a6": {
+            "metCount": 1,
+            "name": "Kongen Hasbulla",
+            "timeMet": "Sat Dec 11 12:14:04 2021\n"
+        },
         "8b28a74ba04446ebad006c3972263890": {
             "metCount": 1,
             "name": "OXL Wash",
@@ -13713,6 +13784,16 @@
         "a6fe213bed564f2e84aa34df7cfd1e15": {
             "metCount": 1,
             "name": "AlarminglyWashed",
+            "playlistData": {
+                "11": {
+                    "records": {
+                        "against": {
+                            "losses": 1,
+                            "wins": 0
+                        }
+                    }
+                }
+            },
             "timeMet": "Sat Dec 11 11:52:34 2021\n"
         },
         "a82bd107c7bc4f4ca63ea439d48cff0d": {

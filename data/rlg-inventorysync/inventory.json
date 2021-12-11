@@ -16624,7 +16624,7 @@
         "Attributes": [
             {
                 "Key": "CertifiedValue",
-                "Value": "31"
+                "Value": "35"
             },
             {
                 "Key": "Certified",
@@ -28237,6 +28237,14 @@
         "InstanceID": 22083142192,
         "Quality": 4,
         "SeriesID": 4,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [],
+        "ID": 4426,
+        "InstanceID": 22083249532,
+        "Quality": 8,
+        "SeriesID": 2311,
         "TradeHold": 0
     }
 ]
