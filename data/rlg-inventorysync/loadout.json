@@ -1,19 +1,19 @@
 {
-    "loadout_name": "Octane Clean",
+    "loadout_name": "Mantis",
     "teams": [
         {
             "accent_finish_id": 270,
-            "accent_paint_color_id": 0,
+            "accent_paint_color_id": 90,
             "items": [],
             "primary_finish_id": 270,
-            "primary_paint_color_id": 37
+            "primary_paint_color_id": 68
         },
         {
             "accent_finish_id": 270,
             "accent_paint_color_id": 90,
             "items": [],
             "primary_finish_id": 270,
-            "primary_paint_color_id": 56
+            "primary_paint_color_id": 67
         }
     ]
 }
