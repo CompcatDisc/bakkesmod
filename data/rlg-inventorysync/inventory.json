@@ -22519,6 +22519,72 @@
     },
     {
         "Attributes": [],
+        "ID": 5301,
+        "InstanceID": 22093328967,
+        "Quality": 2,
+        "SeriesID": 1002,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [
+            {
+                "Key": "TitleId",
+                "Value": "RP11_Zero_G"
+            }
+        ],
+        "ID": 3036,
+        "InstanceID": 22093330093,
+        "Quality": 8,
+        "SeriesID": 2259,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [],
+        "ID": 5301,
+        "InstanceID": 22142089781,
+        "Quality": 2,
+        "SeriesID": 1119,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [
+            {
+                "Key": "Blueprint",
+                "Value": "5951"
+            },
+            {
+                "Key": "BlueprintCost",
+                "Value": "500"
+            },
+            {
+                "Key": "Quality",
+                "Value": "4"
+            }
+        ],
+        "ID": 7076,
+        "InstanceID": 22180773518,
+        "Quality": 4,
+        "SeriesID": 4,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [],
+        "ID": 4459,
+        "InstanceID": 22180773529,
+        "Quality": 8,
+        "SeriesID": 2261,
+        "TradeHold": -1
+    },
+    {
+        "Attributes": [],
+        "ID": 7058,
+        "InstanceID": 22180936963,
+        "Quality": 8,
+        "SeriesID": 2262,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [],
         "ID": 2778,
         "InstanceID": 16288122084,
         "Quality": 4,
@@ -28249,23 +28315,39 @@
     },
     {
         "Attributes": [],
-        "ID": 5301,
-        "InstanceID": 22093328967,
-        "Quality": 2,
-        "SeriesID": 1002,
+        "ID": 4499,
+        "InstanceID": 22182694087,
+        "Quality": 8,
+        "SeriesID": 2322,
+        "TradeHold": 0
+    },
+    {
+        "Attributes": [],
+        "ID": 6250,
+        "InstanceID": 22183376258,
+        "Quality": 8,
+        "SeriesID": 2263,
         "TradeHold": 0
     },
     {
         "Attributes": [
             {
-                "Key": "TitleId",
-                "Value": "RP11_Zero_G"
+                "Key": "Blueprint",
+                "Value": "5821"
+            },
+            {
+                "Key": "BlueprintCost",
+                "Value": "300"
+            },
+            {
+                "Key": "Quality",
+                "Value": "4"
             }
         ],
-        "ID": 3036,
-        "InstanceID": 22093330093,
-        "Quality": 8,
-        "SeriesID": 2259,
+        "ID": 5765,
+        "InstanceID": 22183558486,
+        "Quality": 4,
+        "SeriesID": 4,
         "TradeHold": 0
     }
 ]
