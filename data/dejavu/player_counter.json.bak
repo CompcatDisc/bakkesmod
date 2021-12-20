@@ -1203,6 +1203,11 @@
             },
             "timeMet": "Fri Nov 19 05:54:23 2021\n"
         },
+        "217978592f7048f3992b161f39c079ea": {
+            "metCount": 1,
+            "name": "itzELEC7RO",
+            "timeMet": "Mon Dec 20 01:15:36 2021\n"
+        },
         "2192498677681388262": {
             "metCount": 1,
             "name": "CaPtAin_BaBaLou",
@@ -1511,6 +1516,21 @@
                 }
             },
             "timeMet": "Fri Nov 26 01:53:47 2021\n"
+        },
+        "2533274813520731": {
+            "metCount": 1,
+            "name": "Cptn 80HD",
+            "playlistData": {
+                "13": {
+                    "records": {
+                        "against": {
+                            "losses": 1,
+                            "wins": 0
+                        }
+                    }
+                }
+            },
+            "timeMet": "Mon Dec 20 00:59:26 2021\n"
         },
         "2533274816039960": {
             "metCount": 1,
@@ -2009,7 +2029,7 @@
             "timeMet": "Mon Nov 15 21:41:21 2021\n"
         },
         "2535407916416146": {
-            "metCount": 1,
+            "metCount": 2,
             "name": "Kucuuu",
             "playlistData": {
                 "27": {
@@ -2021,7 +2041,23 @@
                     }
                 }
             },
-            "timeMet": "Fri Nov 26 02:00:07 2021\n"
+            "timeMet": "Fri Nov 26 02:00:07 2021\n",
+            "updatedAt": "Mon Dec 20 01:15:35 2021\n"
+        },
+        "2535410882248437": {
+            "metCount": 1,
+            "name": "Cptn FatNeek",
+            "playlistData": {
+                "13": {
+                    "records": {
+                        "against": {
+                            "losses": 1,
+                            "wins": 0
+                        }
+                    }
+                }
+            },
+            "timeMet": "Mon Dec 20 00:59:28 2021\n"
         },
         "2535411324700049": {
             "metCount": 1,
@@ -4408,6 +4444,21 @@
             },
             "timeMet": "Tue Nov 23 22:33:40 2021\n"
         },
+        "44121916a341478b956edb7a26765833": {
+            "metCount": 1,
+            "name": "FiddyUnwashed",
+            "playlistData": {
+                "13": {
+                    "records": {
+                        "against": {
+                            "losses": 1,
+                            "wins": 0
+                        }
+                    }
+                }
+            },
+            "timeMet": "Mon Dec 20 00:45:02 2021\n"
+        },
         "4416520930121154824": {
             "metCount": 1,
             "name": "x_TApple_",
@@ -5669,6 +5720,21 @@
                 }
             },
             "timeMet": "Wed Nov 17 03:12:32 2021\n"
+        },
+        "612685585768320589": {
+            "metCount": 1,
+            "name": "muzic010",
+            "playlistData": {
+                "13": {
+                    "records": {
+                        "against": {
+                            "losses": 1,
+                            "wins": 0
+                        }
+                    }
+                }
+            },
+            "timeMet": "Mon Dec 20 00:59:30 2021\n"
         },
         "61b292e8a38445f0b4a1f2fb3aef7c12": {
             "metCount": 1,
@@ -7303,6 +7369,21 @@
             },
             "timeMet": "Fri Nov 26 03:40:39 2021\n"
         },
+        "76561198000676954": {
+            "metCount": 1,
+            "name": "Bukkakia",
+            "playlistData": {
+                "27": {
+                    "records": {
+                        "against": {
+                            "losses": 0,
+                            "wins": 1
+                        }
+                    }
+                }
+            },
+            "timeMet": "Mon Dec 20 01:08:26 2021\n"
+        },
         "76561198001487971": {
             "metCount": 2,
             "name": "jackpot",
@@ -7594,6 +7675,21 @@
             "metCount": 1,
             "name": "ScottishRoss",
             "timeMet": "Thu Oct 28 20:13:56 2021\n"
+        },
+        "76561198023947483": {
+            "metCount": 1,
+            "name": "SolidThrust",
+            "playlistData": {
+                "13": {
+                    "records": {
+                        "against": {
+                            "losses": 1,
+                            "wins": 0
+                        }
+                    }
+                }
+            },
+            "timeMet": "Mon Dec 20 00:45:02 2021\n"
         },
         "76561198026721615": {
             "metCount": 1,
@@ -8000,6 +8096,21 @@
             "name": "Detrucci",
             "timeMet": "Thu Oct 28 22:32:09 2021\n"
         },
+        "76561198045856839": {
+            "metCount": 1,
+            "name": "Maslofski",
+            "playlistData": {
+                "27": {
+                    "records": {
+                        "against": {
+                            "losses": 0,
+                            "wins": 1
+                        }
+                    }
+                }
+            },
+            "timeMet": "Mon Dec 20 01:08:26 2021\n"
+        },
         "76561198045941196": {
             "metCount": 3,
             "name": "Punisher",
@@ -8245,6 +8356,11 @@
             "metCount": 1,
             "name": "GramWPiwnicyNaStrychu",
             "timeMet": "Sat Nov 20 06:15:08 2021\n"
+        },
+        "76561198060331137": {
+            "metCount": 1,
+            "name": "Schmaddel",
+            "timeMet": "Mon Dec 20 00:52:52 2021\n"
         },
         "76561198061055712": {
             "metCount": 2,
@@ -8546,6 +8662,21 @@
             },
             "timeMet": "Sat Nov 20 06:07:09 2021\n"
         },
+        "76561198072830619": {
+            "metCount": 1,
+            "name": "StupidoDiabolik",
+            "playlistData": {
+                "13": {
+                    "records": {
+                        "against": {
+                            "losses": 1,
+                            "wins": 0
+                        }
+                    }
+                }
+            },
+            "timeMet": "Mon Dec 20 00:45:02 2021\n"
+        },
         "76561198073379010": {
             "metCount": 16,
             "name": "Xalarak",
@@ -8659,6 +8790,11 @@
                 }
             },
             "timeMet": "Fri Oct 29 08:43:37 2021\n"
+        },
+        "76561198077538843": {
+            "metCount": 1,
+            "name": "Penifant",
+            "timeMet": "Mon Dec 20 00:52:52 2021\n"
         },
         "76561198077789317": {
             "metCount": 1,
@@ -9014,6 +9150,11 @@
                 }
             },
             "timeMet": "Mon Nov 15 05:17:44 2021\n"
+        },
+        "76561198102719432": {
+            "metCount": 1,
+            "name": "✪ Iristus ✪",
+            "timeMet": "Mon Dec 20 00:52:52 2021\n"
         },
         "76561198102781500": {
             "metCount": 1,
@@ -9727,14 +9868,14 @@
             "timeMet": "Wed Nov 24 00:00:39 2021\n"
         },
         "76561198138041068": {
-            "metCount": 36,
+            "metCount": 40,
             "name": "Burli23",
             "playlistData": {
                 "13": {
                     "records": {
                         "with": {
-                            "losses": 2,
-                            "wins": 0
+                            "losses": 4,
+                            "wins": 1
                         }
                     }
                 },
@@ -9808,7 +9949,7 @@
                 }
             },
             "timeMet": "Fri Oct 29 16:22:53 2021\n",
-            "updatedAt": "Fri Dec 17 15:18:52 2021\n"
+            "updatedAt": "Mon Dec 20 00:59:22 2021\n"
         },
         "76561198138646431": {
             "metCount": 1,
@@ -11364,6 +11505,21 @@
             },
             "timeMet": "Mon Nov 15 04:12:08 2021\n"
         },
+        "76561198298381988": {
+            "metCount": 1,
+            "name": "okramec",
+            "playlistData": {
+                "13": {
+                    "records": {
+                        "against": {
+                            "losses": 0,
+                            "wins": 1
+                        }
+                    }
+                }
+            },
+            "timeMet": "Mon Dec 20 00:37:56 2021\n"
+        },
         "76561198300730912": {
             "metCount": 1,
             "name": "Timosflight",
@@ -12777,6 +12933,21 @@
             },
             "timeMet": "Sat Nov 13 04:22:10 2021\n"
         },
+        "76561198871690001": {
+            "metCount": 1,
+            "name": "Blackfyre314",
+            "playlistData": {
+                "13": {
+                    "records": {
+                        "against": {
+                            "losses": 0,
+                            "wins": 1
+                        }
+                    }
+                }
+            },
+            "timeMet": "Mon Dec 20 00:37:57 2021\n"
+        },
         "76561198873700677": {
             "metCount": 1,
             "name": "adel2048",
@@ -13220,7 +13391,7 @@
             "timeMet": "Wed Nov 17 05:19:17 2021\n"
         },
         "76561199059032496": {
-            "metCount": 40,
+            "metCount": 46,
             "name": "Dritte Schicht",
             "playlistData": {
                 "11": {
@@ -13234,8 +13405,8 @@
                 "13": {
                     "records": {
                         "with": {
-                            "losses": 3,
-                            "wins": 1
+                            "losses": 5,
+                            "wins": 2
                         }
                     }
                 },
@@ -13243,7 +13414,7 @@
                     "records": {
                         "with": {
                             "losses": 12,
-                            "wins": 17
+                            "wins": 18
                         }
                     }
                 },
@@ -13259,7 +13430,7 @@
                     "records": {
                         "against": {
                             "losses": 4,
-                            "wins": 3
+                            "wins": 4
                         },
                         "with": {
                             "losses": 1,
@@ -13269,7 +13440,7 @@
                 }
             },
             "timeMet": "Fri Nov 19 22:40:17 2021\n",
-            "updatedAt": "Mon Dec 20 00:17:29 2021\n"
+            "updatedAt": "Mon Dec 20 01:15:36 2021\n"
         },
         "76561199059921058": {
             "metCount": 1,
@@ -14811,6 +14982,11 @@
                 }
             },
             "timeMet": "Fri Nov 19 02:28:17 2021\n"
+        },
+        "a2b306d8b69f43ba9f575d6842c630fe": {
+            "metCount": 1,
+            "name": "I sUCk BBC bUt i",
+            "timeMet": "Mon Dec 20 00:37:57 2021\n"
         },
         "a336acdb4295449495874d2ee1335dc8": {
             "metCount": 1,
